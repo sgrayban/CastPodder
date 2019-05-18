@@ -1,0 +1,1852 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<!-- $Id: CastPodderUserGuide.html 258 2005-12-26 18:56:24Z sgrayban $ -->
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
+	<TITLE>CastPodder User Guide</TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice.org 2.0  (Linux)">
+	<META NAME="AUTHOR" CONTENT="Scott Grayban">
+	<META NAME="CREATED" CONTENT="20051224;6373500">
+	<META NAME="CHANGEDBY" CONTENT="Scott Grayban">
+	<META NAME="CHANGED" CONTENT="20051226;10255500">
+	<META NAME="CLASSIFICATION" CONTENT="CastPodder Documentation">
+	<META NAME="DESCRIPTION" CONTENT="CastPodder User Guide is Copyright (c) 2005 CastPodder Team
+
+Website: http://www.castpodder.net
+Project: http://borgforge.net/projects/castpodder/
+Support: http://castpodder.phpbbweb.com">
+	<META NAME="KEYWORDS" CONTENT="castpodder, linux, podcasting">
+	<STYLE>
+	<!--
+		P { margin-bottom: 0.08in; color: #000000; text-align: left }
+		P.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: en-CA }
+		P.cjk { font-family: "Lucida Sans Unicode"; so-language:  }
+		P.ctl { font-family: "Tahoma"; font-size: 12pt }
+		PRE { color: #000000; text-align: left }
+		PRE.western { so-language: en-CA }
+		PRE.cjk { font-size: 12pt; so-language:  }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="en-CA" TEXT="#000000" DIR="LTR">
+<DIV TYPE=HEADER>
+	<P ALIGN=CENTER STYLE="margin-bottom: 0.2in">CastPodder User Guide</P>
+</DIV>
+<P ALIGN=CENTER STYLE="margin-top: 0.17in; page-break-after: avoid"><FONT FACE="Arial, sans-serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>For
+CastPodder<FONT FACE="Bitstream Vera Sans">&reg;™</FONT> on Linux
+systems</B></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.17in; page-break-after: avoid"><FONT FACE="Arial, sans-serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Part
+of the CastPodder Documentation</B></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.17in; page-break-after: avoid"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-top: 0.17in; page-break-after: avoid"><BR><BR>
+</P>
+<PRE CLASS="western" STYLE="text-align: center">
+<IMG SRC="CastPodderUserGuide_html_30b1ba3a.gif" NAME="graphics1" ALIGN=LEFT WIDTH=526 HEIGHT=11 BORDER=0><BR CLEAR=LEFT>
+</PRE><P ALIGN=CENTER STYLE="margin-bottom: 0in">
+<BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><IMG SRC="CastPodderUserGuide_html_13bc480c.gif" NAME="graphics2" ALIGN=LEFT WIDTH=300 HEIGHT=197 BORDER=0><BR CLEAR=LEFT><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in">Copyright
+&copy; 2005 CastPodder Team</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><IMG SRC="CastPodderUserGuide_html_30b1ba3a.gif" NAME="graphics3" ALIGN=LEFT WIDTH=526 HEIGHT=11 BORDER=0><BR CLEAR=LEFT><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-top: 0.17in; page-break-before: always; page-break-after: avoid"><A NAME="Top"></A>
+<FONT FACE="Arial, sans-serif"><FONT SIZE=4 STYLE="font-size: 16pt"><U><B>Table
+of Contents</B></U></FONT></FONT></P>
+<P CLASS="western" ALIGN=LEFT STYLE="margin-bottom: 0in">1.
+<A HREF="#Introduction">Introduction</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">2. <A HREF="#Getting Started">Getting
+Started</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	2.1. <A HREF="#Requirements">Requirements</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	2.2. <A HREF="#Installation">Installation</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	2.3. <A HREF="#Starting CastPodder">Starting
+CastPodder</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">3. <A HREF="#The User Interface">The
+User Interface</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	3.1. <A HREF="#Downloads">Downloads</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	3.2. <A HREF="#Subscriptions">Subscriptions</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">		3.2.1. <A HREF="#The Subscriptions Tab buttons from left to right">The
+Subscriptions Tab buttons from left to right</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">		3.2.2. <A HREF="#More controls for Podcast's listed in Subscriptions">More
+controls for Podcast's listed in Subscriptions</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	3.3. <A HREF="#Podcast directory">Podcast
+directory</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	3.4. <A HREF="#Cleanup">Cleanup</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	3.5. <A HREF="#Log (Optional)">Log
+(optional)</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">4. <A HREF="#Setting Preferences">Setting
+Preferences</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	4.1. <A HREF="#General">General</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">		4.1.1. <A HREF="#Location and storage management">Location
+and storage management</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	4.2. <A HREF="#Threading">Threading</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	4.3. <A HREF="#Network settings">Network
+settings</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	4.4. <A HREF="#Player">Player</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	4.5. <A HREF="#Feed Manager">Feed
+manager</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	4.6. <A HREF="#Advanced">Advanced</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">5. <A HREF="#Other Features">Other
+features</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	5.1. <A HREF="#OPML Import">OPML
+Import / Export</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">		5.1.1. <A HREF="#Importing an OPML File">Importing
+an OPML file</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">		5.1.2. <A HREF="#Exporting an OPML File">Exporting
+an OPML file</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	5.2. <A HREF="#Language Change">Language
+Change</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	5.3. <A HREF="#Update Checks">Update
+Checks</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	5.4. <A HREF="#Placing Donations">Placing
+Donations</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">6. <A HREF="#Walk Through's">Walk-through's</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	6.1. <A HREF="#Subscribing to a Podcast">Subscribing
+to a Podcast</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	6.2. <A HREF="#Downloading Podcast Episodes">Downloading
+Podcast episodes</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">		6.2.1. <A HREF="#Download most recent episodes">Download
+most recent episodes</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">		6.2.2. <A HREF="#Download all Episodes you don't have already">Download
+all episodes you don't have already</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">7. <A HREF="#Guide Information">Guide
+Information</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	7.1. <A HREF="#CastPodder Documentation">CastPodder
+Documentation</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	7.2. <A HREF="#Credits">Credits</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	7.3. <A HREF="#Errata Reporting">Errata
+Reporting</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">	7.4. <A HREF="#Documentation License">Documentation
+License</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><A HREF="#Appendix 1 GNU GPL License">Appendix
+1 GNU GPL License</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><A HREF="#Appendix 2 Creative Commons Attribution-NonCommercial-NoDerivs 25 License"><U><SPAN STYLE="font-style: normal">Appendix
+2: Creative Commons Attribution-NonCommercial-NoDerivs 2.5 License</SPAN></U></A></P>
+<P STYLE="margin-bottom: 0in; page-break-before: always"><A NAME="Introduction"></A>
+= 1. Introduction</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+CastPodder is Linux Podcast receiver. You can use it to Subscribe to
+Podcast's, receive them and listen to them on your computer or
+portable audio player.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">With CastPodder you can
+easily Subscribe to your favourite Podcast feeds, or any Podcast you
+find on the Internet.
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">You can have CastPodder
+make periodic checks for new episodes, or even schedule a time for
+checking yourself. Bringing you always the freshest Podcast's as they
+are made available, CastPodder makes it easy for you to organize and
+synchronize content.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">This User Guide will
+introduce you to the basics of CastPodder, and will help you to
+better enjoy your experience with it.</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Getting Started"></A>= 2. Getting Started</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+To begin receiving the Podcast shows of your choice, you need to
+download and install CastPodder on your computer.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">To download the latest
+version of the CastPodder software, please visit the website, at:
+<A HREF="http://www.castpodder.net/" TARGET="_blank"><U><FONT SIZE=3><FONT FACE="Times New Roman, serif"><FONT COLOR="#000080">http://www.castpodder.net</FONT></FONT></FONT></U></A></P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Requirements"></A>== 2.1 Requirements</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+CastPodder requires the following in order to work properly in your
+system. Make sure your system meets the minimum requirements before
+you install the software.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Software</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Operating Systems:
+Linux (Posix)</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Audio Playback: XMMS or
+Beep-Media-Player</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Hardware</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Free Disk Space: 100 MB</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">RAM: 256 MB</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Installation"></A>== 2.2 Installation</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+Depending on what you downloaded:</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> tar -jxf
+CastPodder-version.tar.bz2; cd to castpodder then ./install.sh</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> rpm -iUhv
+CastPodder-version.2006.0mdk.noarch.rpm</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> dpkg -i
+castpodder_version_all.deb</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Starting CastPodder"></A>== 2.3 Starting CastPodder</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+You can easily start CastPodder by clicking on the CastPodder
+shortcut located in the Start -&gt; Multimedia -&gt; Sound -&gt;
+CastPodder.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Next versions of
+CastPodder will be located in Start -&gt; Internet -&gt; News</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">A splash screen
+featuring the CastPodder logo will appear and the software will
+appear on your screen.</P>
+<P STYLE="margin-bottom: 0in; page-break-before: always"><A NAME="The User Interface"></A>
+= 3. The User Interface</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+The CastPodder User Interface is organized in Tabs. There Tabs
+provide one-click access to different sets of information and control
+tools over the CastPodder software. The next few pages will introduce
+you to this environment and will guide you into gaining absolute
+control over your Podcasting experience.</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Downloads"></A>== 3.1 Downloads</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+First Tab from the right is Downloads. Here CastPodder lists the
+various Podcast episodes you may be downloading at any given time.
+Separate types of information are provided on 6 different columns,
+while information on each download is grouped in a row.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">In the Downloads Tab,
+you can see the Podcast episode's Name, State, Progress, Date,
+Playlist association and Location on the Internet.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">In addition, the Tab's
+Status Bar displays information as to how many downloads are in
+progress, and the upload/download speed of the files. In the Status
+Bar of the window, live information on what CastPodder is currently
+doing and what it results to are provided (Such as scanning a number
+of feeds).</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">You can select items in
+the Download tab by clicking on them (Select multiple items by
+holding down the Ctrl or Shift keys), and then Remove or Cancel them
+with the red &quot;x&quot; and &quot;–&quot; buttons. You can even
+search the Download List by entering search terms in the available
+text box next to these buttons and pressing the &quot;Enter&quot;
+button.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Removing a download
+from the Downloads Tab will not delete the downloaded or partially
+downloaded file from your computer. To do this you need to use the
+Cleanup Tab.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">If you right click on a
+Download from the list, you will see a pop-up menu with the options
+to play an Episode in your chosen Player software, remove the
+download from the list with &quot;Clear selected items&quot;, or
+check any available information on it with &quot;Show Notes&quot;.</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Subscriptions"></A>== 3.2 Subscriptions</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+The Subscriptions Tab is key to the CastPodder application. It allows
+you to manage everything about your subscriptions to Podcast's. Here
+you can add a Podcast's Feed, check it, and begin receiving content.
+Every Podcast you add is displayed in the Subscriptions Tab's upper
+list, allowing you to easily check for new episodes which display in
+the list on the lower part of the window, and do several other things
+which we discuss here.</P>
+<PRE CLASS="western">
+</PRE><P STYLE="margin-bottom: 0in; page-break-before: always">
+<A NAME="The Subscriptions Tab buttons from left to right"></A>===
+3.2.1 The Subscriptions Tab buttons from left to right</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+1)&quot;Check for new podcast's&quot;. Clicking this first button
+will tell CastPodder to check all the Podcast feeds you have listed
+(subscribed), for new Podcast Episodes.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">2)&quot;Catch-up&quot;.
+Clicking the second button tells CastPodder to only download the last
+new episodes from the Podcast feeds you have subscribed to.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">This is called
+&quot;Catch-up&quot; and a pop-up window will ask you whether you
+want to skip other (previously available, not the latest) episodes
+you have not downloaded yet permanently or just this once. This will
+force Catch-up to perform as you prescribed from then on. (You can
+change this setting at a later time by going to the File /
+Preferences / General Tab).</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">3)&quot;Add new feed&quot;
+is the third button from the left. Click on it when you know the URL
+address to a Podcast feed you wish to subscribe to. A pop-up window
+will open, and will prompt you to enter the Feed's URL.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Make sure you are
+connected to the Internet and enter the Feed's URL in the URL box.
+Then click on the &quot;Save&quot; button. CastPodder will check the
+feed and enter the Title automatically. Optionally check and select
+in how many days after download episodes should be deleted.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">4)&quot;Remove selected
+feed&quot; is the fourth button from the left (one with the red
+circle / white x) and it will banish the Feed from your
+Subscriptions. This means CastPodder will not be able to check that
+Podcast for content again, unless you subscribe to it again! It is
+important to notice that clicking on an Episode in the lower list and
+then on the &quot;Remove selected feed&quot; button will delete the
+Entire Feed and not that particular Episode. You can automatically
+delete Episodes which are older than any given count of days using
+the next button (Properties).</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">5)&quot;Properties&quot;
+is the fifth button from the left and it will display a pop-up window
+with information on the selected Feed
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">The &quot;Feed
+properties&quot; allow you to make changes to the Podcast Feed's URL
+address if appropriate, and if you check the option &quot;Automatically
+delete episodes more than 14 days old&quot; you can also change the
+number of days CastPodder will wait before deleting old Episodes from
+that Podcast.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">6)&quot;Check /
+download selected feed&quot; is the sixth button from the left, and
+if you click it CastPodder will scan the selected feed for updates
+and start downloading new Episodes.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">7)&quot;Scheduler&quot;
+is the final button in the series we are discussing and it provides
+you one-click access to the CastPodder Scheduler</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">The Scheduler gives
+users a variety of options for setting CastPodder to automatically
+check Feeds for new content and download them, at set times or
+regular intervals. This means you can either tell CastPodder to check
+for new content at 3 different times during a 24 hour period, or you
+can set it to check every so on, with options ranging from every 30
+minutes to every 12 hours. If you would like to play Podcast shows
+right after Scheduler has downloaded them, check the available option
+at File / Preferences... / General Tab.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">8)The text box next to
+the magnifying glass on the Subscriptions Tab, is a dynamic search
+box. This means that as you enter a word, CastPodder will try to
+match it in Podcast Feeds you are subscribed to and display them in
+the list below.</P>
+<P STYLE="margin-bottom: 0in"><A NAME="More controls for Podcast's listed in Subscriptions"></A>
+=== 3.2.2 More controls for Podcast's listed in Subscriptions</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+Some of the functions discussed as accessible via the Subscription
+Tab's buttons are also available if you right click on a Podcast
+Feed. A pop-up menu will appear, allowing you to Check and download
+new Episodes from it, Remove it, open the local folder on your
+computer where content from that Feed is stored at, or even open the
+Feed's URL with your web browser.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">In the Episodes listing
+of a Podcast Feed, if you right click on an episode, another smaller
+pop-up menu &quot;Show Notes&quot; will appear, allowing you to visit
+a web page with more information on that particular Episode (such as
+a related blog post).</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Podcast directory"></A>== 3.3 Podcast directory</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+The Podcast directory Tab displays a &quot;folder tree&quot; type
+listing of Podcast directories. Podcast directories are where Podcast
+producers list their Feeds, much like a website owner would add her
+website to an Internet website directory.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">You can use these to
+find all kinds of interesting, popular or content specific Podcast
+shows for you to subscribe to and get with CastPodder.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Also you can use the
+text box at the top of the Tab to add a Podcast directory's Feed
+which is not currently among the preselected Feeds available in
+CastPodder.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">The three available
+buttons allow to (from left to right) Refresh the contents of the
+directories, Open all folders, and Close all folders.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">To Open a particular
+directory's folder, simply click on it.</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Cleanup"></A>== 3.4 Cleanup</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+The Cleanup Tab allows you to clean up your system from all the
+clutter of Podcast shows you've listened to in the past and are now
+just taking up valuable space.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">You can select one of
+the Podcast Feeds you are subscribed to from the &quot;Select a feed&quot;
+drop-down menu.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">According to the
+checked options in the &quot;Look for episodes in&quot; box,
+CastPodder will search for Episodes of that Feed in the &quot;Player
+library&quot; or / and the &quot;Downloads folder&quot;. All Episodes
+found there will be listed in the available box below.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Than you can manually
+check any Episodes you wish to clean up, or use the &quot;Select all&quot;
+button and manually uncheck those you wish not to be disturbed by the
+Cleanup process.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">You can also check the
+options &quot;Delete library entries&quot; or / and &quot;Delete
+files&quot; according to the type of Cleanup (Delete) you wish to
+perform.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in; page-break-before: always"><A NAME="Log (Optional)"></A>
+== 3.5 Log (Optional)</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+The Log Tab displays technical information about what the CastPodder
+does when it is prompted by the user to perform a task. It can be
+useful for troubleshooting or trying to establish whether a
+particular Feed is not functioning as it should.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">You can delete the
+contents of the Log Tab by clicking the &quot;Clear&quot; button. The
+text that displays in the Log Tab's text box, can be Copied and
+Pasted as you do with any text on your computer. However the contents
+of the Log Tab are produced automatically by CastPodder and text
+cannot be entered there by the user.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Display of the Log Tab
+among the tabs of the main CastPodder window, is optional and can be
+enabled by checking the available option at File / Preferences... /
+Advanced (tab) / &quot;Show log tab in application&quot;.</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Setting Preferences"></A>= 4. Setting Preferences</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+To open the &quot;Preferences&quot; window in CastPodder, which
+allows you to edit / set options for the application, please click on
+File / Preferences...</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">The &quot;Preferences&quot;
+window will appear where you will see six different Tabs each
+containing options for different parts of the CastPodder, giving you
+maximum control over how the application works and how you enjoy your
+Podcast Receiving experience.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">In this User Guide, we
+discuss each Tab and the options it provides the user with. Some of
+these options you may have been prompted for before, within the
+CastPodder main window. Here you can change or edit them.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><A NAME="General"></A>== 4.1 General</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+The &quot;General&quot; Tab, allows you to set the General option
+relating to the CastPodder application. The check boxes in the upper
+section of this tab, will make the statements next to them true if
+they are checked by the user.
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">There you can opt to
+have CastPodder do the following:</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">- At startup only show
+CastPodder in the system tray</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">The application stays
+minimized in a system tray CastPodder icon when it is started.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">- Run a check for new
+podcast's when the application is started</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Have CastPodder
+automatically check within your subscriptions for new content every
+time it is started.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">- Play downloads right
+after they're downloaded</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">CastPodder will
+automatically call on your chosen Player to start playing a newly
+downloaded Podcast Episode.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">- Check for new
+versions of the application at startup</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">This will allow
+CastPodder to check if a new version of the application is available
+for download. This is better left checked as new versions may offer
+bug fixes and more functions.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">- Always use CastPodder
+for one-click subscription</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Check this if you want
+CastPodder to catch Podcast Feeds available through one-click
+subscription and it will allow you to subscribe to them with a single
+click.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">- Catch-up skips older
+episodes permanently</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">If this is checked,
+every time you run &quot;Catch-up&quot; in the main Subscriptions
+Tab, any older than the latest available Podcast Episodes you have
+not downloaded yet will be permanently skipped by CastPodder.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">- Continue running in
+the background when I close the main window</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">If this option is
+checked, every time you close the CastPodder window (either by the x
+button, File / Close window, &quot;Ctrl+w&quot; or &quot;Alt+F4&quot;)
+it will continue to work in the background and stay minimized in an
+CastPodder icon in the system tray. To quit the application you would
+then need to use File / Quit, Ctrl+q, or right click on the
+CastPodder system tray icon and select &quot;Quit&quot; from the
+menu. To restore the CastPodder window from the system tray, right
+click on the icon and select &quot;Open CastPodder&quot; or just
+double click.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><A NAME="Location and storage management"></A>
+=== 4.1.1 Location and storage management</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+On the lower part of the &quot;General&quot; Preferences Tab, are the
+&quot;Location and storage management&quot; settings.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">There you can set a
+minimal amount of available space on your hard drive that would
+trigger CastPodder to stop downloading should it ever be reached.
+This is a nice protective measure against absent mindedly having the
+free space on your hard drive all taken up by old Podcast Episodes.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Also you can choose the
+folder into which Podcast's will be downloaded. Remember, CastPodder
+makes new folders automatically for each Podcast you download
+Episodes from. All these folder and their content will be located
+where you indicate here. The default option is ~/iPodderData folder.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><A NAME="Threading"></A>== 4.2
+Threading</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+The Threading Tab allows you to set a number for:</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Maximal threads for
+feed scanning per session
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">(Available options
+range between 1 and 16)</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Maximal downloads per
+session</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">(Available options
+range between 1 and 6)</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">These setting can be
+very useful in improving download performance. If your bandwidth
+allows it you can experiment by changing the defaults and seeing
+which setting works best for you.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Any changes you make to
+how multiple downloads are treated should be saved by clicking the
+&quot;Save&quot; button on the Threading Tab.</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<BR>
+</P>
+<P STYLE="margin-bottom: 0in; page-break-before: always"><A NAME="Network settings"></A>
+== 4.3 Network settings</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+On the &quot;Network Settings&quot; Tab you are given the option to
+use a proxy server with CastPodder. To enable this option you must
+make sure the box next to &quot;Use a proxy server&quot; is checked
+and that you enter the full URL address of the proxy server you want
+to use as well as the port number.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">The other available
+option, in experimental use in CastPodder 2.1 is &quot;Coralize
+URLs&quot;.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">It is aimed at placing
+URLs in order.</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Player"></A>== 4.4 Player</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+The &quot;Player&quot; Tab allows the user to pick between XMMS and
+Beep-Media-Player for the default Player they want to play and manage
+synchronization of Podcast Episodes with.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Of course if you want
+to use one of the listed Players you must first have it installed on
+your computer. If you want to use a different media manager / player,
+your best chance is to set the option to &quot;No player&quot; and
+then CastPodder will check with your system for the default media
+player you are using and use that.</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Feed Manager"></A>== 4.5 Feed Manager</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+The &quot;Feed Manager&quot; Tab allows you to Synchronize your
+subscriptions to a remote service you may be using to store the URLs
+to your favourite Podcast's (Such as in my.podnova.com)</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Simply enter the full
+URL to the OPML file holding your favourite podcast's and it will
+automatically be synchronize your CastPodder subscriptions to it.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">A link to PodNova &amp;
+GigaDial, are both on-line Feed Manager compatible with this
+CastPodder feature is also provided in the form of a button.</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Advanced"></A>== 4.6 Advanced</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+On the &quot;Advanced&quot; Tab of the &quot;Preferences&quot; window
+the ability for Power Users to run custom commands after each
+download is given. The command's code is entered into the text box,
+and the box next to &quot;Run this command after each download&quot;
+should be checked in order for it to execute.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Another available
+option is the &quot;Show log tab in application&quot;. The Log Tab in
+the main CastPodder window, offers valuable technical information
+about how CastPodder executes various tasks, and what problems such
+as a corrupt Feed could be hindering a download. Although ineligible
+to the uninitiated this Log output is of great use when
+troubleshooting or seeking expert advice.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><A NAME="Other Features"></A>= 5. Other
+Features</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+CastPodder boasts an easy to use, self explanatory user environment
+which is under continuous watch for improvements. The more you use
+CastPodder, you will soon realize which of the several paths,
+keyboard short cuts, you can use to do something best suits you. Some
+of the Features not accessible via the CastPodder Tabs but only
+through the top drop-down menus are explained in this section.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><A NAME="OPML Import"></A>== 5.1 OPML
+Import / Export</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+CastPodder allows you to import your favourite Podcast Feeds from an
+OPML file you have stored locally on your computer. Alternatively you
+can also export your current subscription list on another OPML file
+for backup purposes, or to use somewhere else.</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Importing an OPML File"></A>=== 5.1.1 Importing an OPML File</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+1)Click on the &quot;File&quot; drop-down menu and select &quot;Import
+feeds from opml...&quot; (or you can try holding down Ctrl+Shift+o on
+your keyboard while at the CastPodder main window)</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">2)From the &quot;Select
+import file&quot; window, locate the OPML file you wish to import to
+CastPodder on your computer, and double click on it (or click once to
+select and then click on the &quot;Open&quot; button).</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">CastPodder will then
+import the OPML file you selected.</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Exporting an OPML File"></A>=== 5.1.2 Exporting an OPML File</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+1)Click on the &quot;File&quot; drop-down menu and select &quot;Export
+feeds as opml...&quot;</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">2)In the &quot;Choose a
+name for the export file&quot; window, enter the desired name for
+your OPML file, or keep the default name which makes it easy to
+identify the file as containing your CastPodder subscriptions. Also
+point to where you want the file to be saved.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">CastPodder will then
+export the OPML file of the feeds in your Subscriptions and store it
+in the location you have designated on your computer.</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Language Change"></A>== 5.2 Language Change</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+If you would like to change the User Interface language of CastPodder
+to one of the many (more than 15) different locales available, please
+do the following:</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">1)Click on Tools /
+Select language, and then on the language of your choice.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">2)Restart CastPodder
+for the language file to be activated.</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Update Checks"></A>== 5.3 Update Checks</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+To manually check for a more recent version of the CastPodder
+application to the one you are using, click on the &quot;Help&quot;
+drop-down menu and then choose &quot;Check for Update...&quot;</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Keeping your software
+applications up to date is vital to maintaining an up to speed, safe
+and enjoyable computer environment!</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Placing Donations"></A>== 5.4 Placing Donations</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+Donations from satisfied users like yourself is what keeps the
+CastPodder project alive and constantly improving. If you enjoy using
+CastPodder and you would like to  support its development, one easy
+way to do that is by clicking on the &quot;Help&quot; drop-down menu,
+and then selecting &quot;Make a Donation&quot;.</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<BR>
+</P>
+<P STYLE="margin-bottom: 0in; page-break-before: always"><A NAME="Walk Through's"></A>
+= 6. Walk Through's</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+Some people prefer to be guided step by step the first time they use
+something, such as a software application. In this section of the
+User Guide you will find a series of walk-through's to some of the
+essential functions of the CastPodder.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><A NAME="Subscribing to a Podcast"></A>==
+6.1 Subscribing to a Podcast</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+When you Subscribe to a Podcast with CastPodder, it checks for new
+Episodes on that Podcast and makes it easy to discover and download
+them. Each Podcast publishes a news Feed in RSS or less commonly
+Atom. You need to give CastPodder that Feed's address in order to
+Subscribe to it.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">A Podcast's Feed URL
+(Address) is usually given on the web page where you discover a
+Podcast. Look for a Feed's URL or a text or graphic link that says
+something like &quot;RSS&quot; or &quot;Podcast Feed&quot; on it.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">If the Podcast Feed's
+address is in the form of a link on a web page, right click on it on
+your web browser and select &quot;Copy Shortcut&quot; on IE, or &quot;Copy
+link location&quot; on Firefox. Then you can paste instead of typing
+it as described on step number 4.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Steps</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">1)Start CastPodder</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">2)With the CastPodder
+window open, press &quot;Ctrl+N&quot; on your keyboard or go to
+&quot;Tools / Add a Feed...&quot;</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">3)An &quot;Add a Feed&quot;
+window pops up. In the URL text box, add the Feed's address (Not the
+website address, the RSS or Atom address).</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">4)Click on the &quot;Save&quot;
+button.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">That's it, CastPodder
+checks that Feed URL and if it is a valid Podcast Feed it will add it
+to your Subscriptions so you can check and download Episodes from it.</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<BR>
+</P>
+<P STYLE="margin-bottom: 0in; page-break-before: always"><A NAME="Downloading Podcast Episodes"></A>
+== 6.2 Downloading Podcast Episodes</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+Lets assume you are Subscribed with CastPodder on a number of
+Podcast's and you want to actually get the shows brought to you. What
+do you do?</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">The following steps
+show you how to get the latest or all missed Episodes of a Podcast.</P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Download most recent episodes"></A>=== 6.2.1 Download most
+recent episodes</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+Steps</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">1)Start CastPodder</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">2)Go to the
+&quot;Subscriptions&quot; tab.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">3)Click on the Catch-up
+button, or press F6 on your keyboard, or select &quot;Tools /
+Catch-up&quot;</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">4)In the pop-up window,
+select the option &quot;Skip this time only&quot; if you want to
+later be able to download older Episodes from that Podcast with
+CastPodder.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">5)Click on the OK
+button.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">That's it! CastPodder
+will automatically check the Podcast's you are Subscribed to for new
+content and start downloading them. If you don't wish to download new
+Episodes for all these Podcast's, you can go to the &quot;Downloads&quot;
+tab, select the undesirable Podcast's and click on the &quot;Cancel
+selected download&quot;.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><A NAME="Download all Episodes you don't have already"></A>
+=== 6.2.2 Download all Episodes you don't have already</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+&gt;From All Podcast's in your Subscriptions</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Steps</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">1)Start CastPodder</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">2)Go to the
+&quot;Subscriptions&quot; tab.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">3)Click on the &quot;Check
+for new podcast's&quot; button.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">That's it! CastPodder
+will check all Feeds in your Subscriptions for new content and start
+downloading them. All content since the last time you downloaded from
+a Podcast that is still available will be downloaded.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">&gt;From A Selected
+Podcast in your Subscriptions</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Steps</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">1)Start CastPodder</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">2)Go to the
+&quot;Subscriptions&quot; tab.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">3)Click on the Podcast
+you want to check from the list, to select it.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">4)Click on the &quot;Check
+/ Download selected feed&quot; button.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">That's it! CastPodder
+will check that particular Podcast Feed and download any Episodes
+from it you haven't downloaded already.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in; page-break-before: always"><A NAME="Guide Information"></A>
+= 7. Guide Information</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+This User Guide is intended for users of the CastPodder software
+application on a compatible Windows operating system. Some or all of
+the information contained herein only apply to the versions of
+CastPodder for the Linux operating systems.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><A NAME="CastPodder Documentation"></A>==
+7.1 CastPodder Documentation</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+The CastPodder Documentation is an ongoing project, with changes and
+updates on a frequent basis. If you would like to check for a more
+recent version of this User Guide, or the On-line (constantly
+updated) version, please visit:
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">CastPodder
+Documentation</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><A HREF="http://www.castpodder.net/docs/" TARGET="_blank"><U><FONT COLOR="#000080">http://www.castpodder.net/docs/</FONT></U></A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">CastPodder On-line
+Documentation (CastPodderpedia)</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><A HREF="http://wiki.castpodder.net/" TARGET="_blank"><U><FONT COLOR="#000080">http://wiki.castpodder.net/</FONT></U></A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">More information and
+user support can also be found at:</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">CastPodder Support
+Forum</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><A HREF="http://castpodder.phpbbweb.com/" TARGET="_blank"><U><FONT COLOR="#000080">http://castpodder.phpbbweb.com/</FONT></U></A></P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Credits"></A>== 7.2 Credits</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+The CastPodder Team</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><A HREF="http://www.castpodder.net/team/" TARGET="_blank"><U><FONT COLOR="#000080">http://www.castpodder.net/team/</FONT></U></A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><A NAME="Errata Reporting"></A>== 7.3
+Errata Reporting</P>
+<PRE CLASS="western"></PRE><P CLASS="western" STYLE="margin-bottom: 0in">
+To report errors or omissions in this User Guide, please email
+<A HREF="mailto:sgrayban@castpodder.net"><U><FONT SIZE=3><FONT FACE="Times New Roman, serif"><FONT COLOR="#000080">sgrayban@castpodder.net</FONT></FONT></FONT></U></A></P>
+<PRE CLASS="western"></PRE><P STYLE="margin-bottom: 0in">
+<A NAME="Documentation License"></A>== 7.4 Documentation License</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">The CastPodder User
+Guide is part of the CastPodder Documentation, which is published
+under the following Creative Commons License:</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Creative Commons
+License:
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><A HREF="http://creativecommons.org/licenses/by-nc-nd/2.5/" NAME="Creative Commons Attribution-NonCommercial-NoDerivs 2.5" TARGET="_blank"><IMG SRC="CastPodderUserGuide_html_26e0c72.png" NAME="graphics4" ALIGN=LEFT WIDTH=83 HEIGHT=29 BORDER=0></A><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><A HREF="http://creativecommons.org/licenses/by-nc-nd/2.5/" NAME="License" TARGET="_blank">Attribution,
+Non Commercial, No Derivatives (by - nc - nd 2.5)</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>Back to the <A HREF="#Top">Table
+Of Contents</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<HR>
+<P CLASS="western" STYLE="margin-bottom: 0in">Author: <I><SDFIELD TYPE=DOCINFO SUBTYPE=CREATE FORMAT=AUTHOR>Scott Grayban</SDFIELD></I></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Last Modified: <I><SDFIELD TYPE=DATETIME SDVAL="38712.1238194444" SDNUM="4105;4105;DD/MM/YY">26/12/05</SDFIELD>
+<SDFIELD TYPE=DATETIME SDVAL="38712.2107170139" SDNUM="4105;4105;HH:MM:SS">05:03:26</SDFIELD></I></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><SPAN STYLE="font-weight: medium"><SPAN STYLE="font-style: normal">The
+Open Office2 versions of this file are </SPAN></SPAN><B><I> </I><SPAN STYLE="background: #ffff00"><SPAN STYLE="font-style: normal"><FONT SIZE=4 STYLE="font-size: 16pt"><FONT FACE="FakeReceipt, sans-serif">Digitally
+Signed</FONT></FONT></SPAN></SPAN></B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Get the Certificate
+bundle from the documentation website.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in; font-style: normal; font-weight: medium">
+<BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><SPAN STYLE="font-weight: medium"><SPAN STYLE="font-style: normal">Master
+document is saved in </SPAN></SPAN><B><I>OASIS OpenDocument Text</I></B>
+for cross-platform portability.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in; page-break-before: always"><A NAME="Appendix 1 GNU GPL License"></A>
+<U><I>Appendix 1: GNU GPL License
+                                                     <B>CastPodder</B></I></U>
+
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in">GNU
+GENERAL PUBLIC LICENSE</P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in">Version 2,
+June 1991</P>
+<P CLASS="western" ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> Copyright (C) 1989,
+1991 Free Software Foundation, Inc.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> 59 Temple Place, Suite
+330, Boston, MA  02111-1307  USA</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> Everyone is permitted
+to copy and distribute verbatim copies</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> of this license
+document, but changing it is not allowed.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">
+Preamble</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  The licenses for most
+software are designed to take away your</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">freedom to share and
+change it.  By contrast, the GNU General Public</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">License is intended to
+guarantee your freedom to share and change free</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">software--to make sure
+the software is free for all its users.  This</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">General Public License
+applies to most of the Free Software</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Foundation's software
+and to any other program whose authors commit to</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">using it.  (Some other
+Free Software Foundation software is covered by</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">the GNU Library General
+Public License instead.)  You can apply it to</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">your programs, too.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  When we speak of free
+software, we are referring to freedom, not</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">price.  Our General
+Public Licenses are designed to make sure that you</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">have the freedom to
+distribute copies of free software (and charge for</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">this service if you
+wish), that you receive source code or can get it</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">if you want it, that
+you can change the software or use pieces of it</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">in new free programs;
+and that you know you can do these things.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  To protect your
+rights, we need to make restrictions that forbid</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">anyone to deny you
+these rights or to ask you to surrender the rights.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">These restrictions
+translate to certain responsibilities for you if you</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">distribute copies of
+the software, or if you modify it.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  For example, if you
+distribute copies of such a program, whether</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">gratis or for a fee,
+you must give the recipients all the rights that</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">you have.  You must
+make sure that they, too, receive or can get the</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">source code.  And you
+must show them these terms so they know their</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">rights.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  We protect your
+rights with two steps: (1) copyright the software, and</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">(2) offer you this
+license which gives you legal permission to copy,</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">distribute and/or
+modify the software.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  Also, for each
+author's protection and ours, we want to make certain</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">that everyone
+understands that there is no warranty for this free</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">software.  If the
+software is modified by someone else and passed on, we</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">want its recipients to
+know that what they have is not the original, so</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">that any problems
+introduced by others will not reflect on the original</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">authors' reputations.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  Finally, any free
+program is threatened constantly by software</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">patents.  We wish to
+avoid the danger that redistributors of a free</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">program will
+individually obtain patent licenses, in effect making the</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">program proprietary.
+To prevent this, we have made it clear that any</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">patent must be licensed
+for everyone's free use or not licensed at all.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  The precise terms and
+conditions for copying, distribution and</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">modification follow.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">		    GNU GENERAL
+PUBLIC LICENSE</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">   TERMS AND CONDITIONS
+FOR COPYING, DISTRIBUTION AND MODIFICATION</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  0. This License
+applies to any program or other work which contains</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">a notice placed by the
+copyright holder saying it may be distributed</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">under the terms of this
+General Public License.  The &quot;Program&quot;, below,</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">refers to any such
+program or work, and a &quot;work based on the Program&quot;</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">means either the
+Program or any derivative work under copyright law:</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">that is to say, a work
+containing the Program or a portion of it,</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">either verbatim or with
+modifications and/or translated into another</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">language.
+(Hereinafter, translation is included without limitation in</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">the term
+&quot;modification&quot;.)  Each licensee is addressed as &quot;you&quot;.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Activities other than
+copying, distribution and modification are not</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">covered by this
+License; they are outside its scope.  The act of</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">running the Program is
+not restricted, and the output from the Program</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">is covered only if its
+contents constitute a work based on the</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Program (independent of
+having been made by running the Program).</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Whether that is true
+depends on what the Program does.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  1. You may copy and
+distribute verbatim copies of the Program's</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">source code as you
+receive it, in any medium, provided that you</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">conspicuously and
+appropriately publish on each copy an appropriate</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">copyright notice and
+disclaimer of warranty; keep intact all the</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">notices that refer to
+this License and to the absence of any warranty;</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">and give any other
+recipients of the Program a copy of this License</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">along with the Program.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">You may charge a fee
+for the physical act of transferring a copy, and</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">you may at your option
+offer warranty protection in exchange for a fee.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  2. You may modify
+your copy or copies of the Program or any portion</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">of it, thus forming a
+work based on the Program, and copy and</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">distribute such
+modifications or work under the terms of Section 1</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">above, provided that
+you also meet all of these conditions:</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    a) You must cause
+the modified files to carry prominent notices</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    stating that you
+changed the files and the date of any change.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    b) You must cause
+any work that you distribute or publish, that in</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    whole or in part
+contains or is derived from the Program or any</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    part thereof, to be
+licensed as a whole at no charge to all third</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    parties under the
+terms of this License.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    c) If the modified
+program normally reads commands interactively</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    when run, you must
+cause it, when started running for such</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    interactive use in
+the most ordinary way, to print or display an</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    announcement
+including an appropriate copyright notice and a</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    notice that there
+is no warranty (or else, saying that you provide</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    a warranty) and
+that users may redistribute the program under</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    these conditions,
+and telling the user how to view a copy of this</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    License.
+(Exception: if the Program itself is interactive but</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    does not normally
+print such an announcement, your work based on</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    the Program is not
+required to print an announcement.)</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">These requirements
+apply to the modified work as a whole.  If</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">identifiable sections
+of that work are not derived from the Program,</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">and can be reasonably
+considered independent and separate works in</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">themselves, then this
+License, and its terms, do not apply to those</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">sections when you
+distribute them as separate works.  But when you</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">distribute the same
+sections as part of a whole which is a work based</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">on the Program, the
+distribution of the whole must be on the terms of</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">this License, whose
+permissions for other licensees extend to the</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">entire whole, and thus
+to each and every part regardless of who wrote it.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Thus, it is not the
+intent of this section to claim rights or contest</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">your rights to work
+written entirely by you; rather, the intent is to</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">exercise the right to
+control the distribution of derivative or</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">collective works based
+on the Program.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">In addition, mere
+aggregation of another work not based on the Program</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">with the Program (or
+with a work based on the Program) on a volume of</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">a storage or
+distribution medium does not bring the other work under</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">the scope of this
+License.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  3. You may copy and
+distribute the Program (or a work based on it,</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">under Section 2) in
+object code or executable form under the terms of</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Sections 1 and 2 above
+provided that you also do one of the following:</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    a) Accompany it
+with the complete corresponding machine-readable</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    source code, which
+must be distributed under the terms of Sections</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    1 and 2 above on a
+medium customarily used for software interchange; or,</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    b) Accompany it
+with a written offer, valid for at least three</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    years, to give any
+third party, for a charge no more than your</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    cost of physically
+performing source distribution, a complete</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    machine-readable
+copy of the corresponding source code, to be</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    distributed under
+the terms of Sections 1 and 2 above on a medium</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    customarily used
+for software interchange; or,</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    c) Accompany it
+with the information you received as to the offer</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    to distribute
+corresponding source code.  (This alternative is</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    allowed only for
+noncommercial distribution and only if you</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    received the
+program in object code or executable form with such</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">    an offer, in accord
+with Subsection b above.)</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">The source code for a
+work means the preferred form of the work for</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">making modifications to
+it.  For an executable work, complete source</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">code means all the
+source code for all modules it contains, plus any</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">associated interface
+definition files, plus the scripts used to</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">control compilation and
+installation of the executable.  However, as a</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">special exception, the
+source code distributed need not include</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">anything that is
+normally distributed (in either source or binary</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">form) with the major
+components (compiler, kernel, and so on) of the</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">operating system on
+which the executable runs, unless that component</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">itself accompanies the
+executable.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">If distribution of
+executable or object code is made by offering</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">access to copy from a
+designated place, then offering equivalent</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">access to copy the
+source code from the same place counts as</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">distribution of the
+source code, even though third parties are not</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">compelled to copy the
+source along with the object code.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  4. You may not copy,
+modify, sublicense, or distribute the Program</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">except as expressly
+provided under this License.  Any attempt</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">otherwise to copy,
+modify, sublicense or distribute the Program is</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">void, and will
+automatically terminate your rights under this License.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">However, parties who
+have received copies, or rights, from you under</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">this License will not
+have their licenses terminated so long as such</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">parties remain in full
+compliance.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  5. You are not
+required to accept this License, since you have not</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">signed it.  However,
+nothing else grants you permission to modify or</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">distribute the Program
+or its derivative works.  These actions are</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">prohibited by law if
+you do not accept this License.  Therefore, by</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">modifying or
+distributing the Program (or any work based on the</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Program), you indicate
+your acceptance of this License to do so, and</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">all its terms and
+conditions for copying, distributing or modifying</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">the Program or works
+based on it.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  6. Each time you
+redistribute the Program (or any work based on the</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Program), the recipient
+automatically receives a license from the</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">original licensor to
+copy, distribute or modify the Program subject to</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">these terms and
+conditions.  You may not impose any further</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">restrictions on the
+recipients' exercise of the rights granted herein.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">You are not responsible
+for enforcing compliance by third parties to</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">this License.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  7. If, as a
+consequence of a court judgement or allegation of patent</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">infringement or for any
+other reason (not limited to patent issues),</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">conditions are imposed
+on you (whether by court order, agreement or</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">otherwise) that
+contradict the conditions of this License, they do not</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">excuse you from the
+conditions of this License.  If you cannot</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">distribute so as to
+satisfy simultaneously your obligations under this</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">License and any other
+pertinent obligations, then as a consequence you</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">may not distribute the
+Program at all.  For example, if a patent</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">license would not
+permit royalty-free redistribution of the Program by</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">all those who receive
+copies directly or indirectly through you, then</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">the only way you could
+satisfy both it and this License would be to</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">refrain entirely from
+distribution of the Program.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">If any portion of this
+section is held invalid or unenforceable under</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">any particular
+circumstance, the balance of the section is intended to</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">apply and the section
+as a whole is intended to apply in other</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">circumstances.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">It is not the purpose
+of this section to induce you to infringe any</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">patents or other
+property right claims or to contest validity of any</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">such claims; this
+section has the sole purpose of protecting the</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">integrity of the free
+software distribution system, which is</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">implemented by public
+license practices.  Many people have made</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">generous contributions
+to the wide range of software distributed</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">through that system in
+reliance on consistent application of that</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">system; it is up to the
+author/donor to decide if he or she is willing</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">to distribute software
+through any other system and a licensee cannot</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">impose that choice.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">This section is
+intended to make thoroughly clear what is believed to</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">be a consequence of the
+rest of this License.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  8. If the
+distribution and/or use of the Program is restricted in</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">certain countries
+either by patents or by copyrighted interfaces, the</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">original copyright
+holder who places the Program under this License</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">may add an explicit
+geographical distribution limitation excluding</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">those countries, so
+that distribution is permitted only in or among</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">countries not thus
+excluded.  In such case, this License incorporates</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">the limitation as if
+written in the body of this License.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  9. The Free Software
+Foundation may publish revised and/or new versions</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">of the General Public
+License from time to time.  Such new versions will</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">be similar in spirit to
+the present version, but may differ in detail to</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">address new problems or
+concerns.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Each version is given a
+distinguishing version number.  If the Program</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">specifies a version
+number of this License which applies to it and &quot;any</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">later version&quot;,
+you have the option of following the terms and conditions</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">either of that version
+or of any later version published by the Free</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Software Foundation.
+If the Program does not specify a version number of</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">this License, you may
+choose any version ever published by the Free Software</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Foundation.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  10. If you wish to
+incorporate parts of the Program into other free</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">programs whose
+distribution conditions are different, write to the author</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">to ask for permission.
+For software which is copyrighted by the Free</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Software Foundation,
+write to the Free Software Foundation; we sometimes</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">make exceptions for
+this.  Our decision will be guided by the two goals</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">of preserving the free
+status of all derivatives of our free software and</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">of promoting the
+sharing and reuse of software generally.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in; page-break-before: always">
+<FONT SIZE=2 STYLE="font-size: 11pt">			    NO WARRANTY</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  <FONT SIZE=2 STYLE="font-size: 11pt">11.
+BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">FOR
+THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.  EXCEPT WHEN</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">OTHERWISE
+STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">PROVIDE
+THE PROGRAM &quot;AS IS&quot; WITHOUT WARRANTY OF ANY KIND, EITHER
+EXPRESSED</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">OR
+IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">MERCHANTABILITY
+AND FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE RISK AS</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">TO
+THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.  SHOULD THE</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">PROGRAM
+PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING,</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">REPAIR
+OR CORRECTION.</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">  <FONT SIZE=2 STYLE="font-size: 11pt">12.
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">WILL
+ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">REDISTRIBUTE
+THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES,</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">INCLUDING
+ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">OUT
+OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">TO
+LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">YOU
+OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY
+OTHER</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">PROGRAMS),
+EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">POSSIBILITY
+OF SUCH DAMAGES.</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">
+<FONT SIZE=2 STYLE="font-size: 11pt">END OF TERMS AND CONDITIONS</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<HR>
+<P CLASS="western" STYLE="margin-bottom: 0in"> <B>Copyright 2005
+CastPodder Team</B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> <B>This program is
+free software; you can redistribute it and/or modify</B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> <B>it under the terms
+of the GNU General Public License as published by</B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> <B>the Free Software
+Foundation; either version 2 of the License, or</B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> <B>(at your option)
+any later version.</B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> <B>This program is
+distributed in the hope that it will be useful,</B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> <B>but WITHOUT ANY
+WARRANTY; without even the implied warranty of</B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> <B>MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE.  See the</B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> <B>GNU General Public
+License for more details.</B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> <B>You should have
+received a copy of the GNU General Public License</B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> <B>along with this
+program; if not, write to the Free Software</B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> <B>Foundation, Inc.,
+59 Temple Place, Suite 330, Boston, MA  02111-1307  USA</B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in; page-break-before: always"><A NAME="Appendix 2 Creative Commons Attribution-NonCommercial-NoDerivs 25 License"></A>
+<U><I>Appendix 2: Creative Commons Attribution-NonCommercial-NoDerivs
+2.5 License       <B>CastPodder</B></I></U></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<DIV ID="deed" DIR="LTR">
+	<P CLASS="western" ALIGN=CENTER><IMG SRC="CastPodderUserGuide_html_m4c9252dc.gif" NAME="graphics5" ALIGN=LEFT WIDTH=263 HEIGHT=74 BORDER=0><BR CLEAR=LEFT><BR><BR>
+	</P>
+	<P CLASS="western" ALIGN=CENTER><B>Attribution-NonCommercial-NoDerivs
+	2.5</B></P>
+	<P CLASS="western"><SPAN STYLE="background: transparent">CREATIVE
+	COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL
+	SERVICES. DISTRIBUTION OF THIS LICENSE DOES NOT CREATE AN
+	ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
+	INFORMATION ON AN &quot;AS-IS&quot; BASIS. CREATIVE COMMONS MAKES NO
+	WARRANTIES REGARDING THE INFORMATION PROVIDED, AND DISCLAIMS
+	LIABILITY FOR DAMAGES RESULTING FROM ITS USE.</SPAN></P>
+	<P CLASS="western"><EM>License</EM>
+	</P>
+	<P CLASS="western">THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE
+	TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE (&quot;CCPL&quot; OR
+	&quot;LICENSE&quot;). THE WORK IS PROTECTED BY COPYRIGHT AND/OR
+	OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED
+	UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
+	</P>
+	<P CLASS="western">BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED
+	HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE.
+	THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION
+	OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
+	</P>
+	<P CLASS="western"><STRONG>1. Definitions</STRONG>
+	</P>
+	<OL TYPE=a>
+		<LI><P CLASS="western" STYLE="margin-bottom: 0in"><STRONG>&quot;Collective
+		Work&quot;</STRONG> means a work, such as a periodical issue,
+		anthology or encyclopedia, in which the Work in its entirety in
+		unmodified form, along with a number of other contributions,
+		constituting separate and independent works in themselves, are
+		assembled into a collective whole. A work that constitutes a
+		Collective Work will not be considered a Derivative Work (as
+		defined below) for the purposes of this License.
+		</P>
+		<LI><P CLASS="western" STYLE="margin-bottom: 0in"><STRONG>&quot;Derivative
+		Work&quot;</STRONG> means a work based upon the Work or upon the
+		Work and other pre-existing works, such as a translation, musical
+		arrangement, dramatization, fictionalization, motion picture
+		version, sound recording, art reproduction, abridgment,
+		condensation, or any other form in which the Work may be recast,
+		transformed, or adapted, except that a work that constitutes a
+		Collective Work will not be considered a Derivative Work for the
+		purpose of this License. For the avoidance of doubt, where the Work
+		is a musical composition or sound recording, the synchronization of
+		the Work in timed-relation with a moving image (&quot;synching&quot;)
+		will be considered a Derivative Work for the purpose of this
+		License.
+		</P>
+		<LI><P CLASS="western" STYLE="margin-bottom: 0in"><STRONG>&quot;Licensor&quot;</STRONG>
+		means the individual or entity that offers the Work under the terms
+		of this License.
+		</P>
+		<LI><P CLASS="western" STYLE="margin-bottom: 0in"><STRONG>&quot;Original
+		Author&quot;</STRONG> means the individual or entity who created
+		the Work.
+		</P>
+		<LI><P CLASS="western" STYLE="margin-bottom: 0in"><STRONG>&quot;Work&quot;</STRONG>
+		means the copyrightable work of authorship offered under the terms
+		of this License.
+		</P>
+		<LI><P CLASS="western"><STRONG>&quot;You&quot;</STRONG> means an
+		individual or entity exercising rights under this License who has
+		not previously violated the terms of this License with respect to
+		the Work, or who has received express permission from the Licensor
+		to exercise rights under this License despite a previous violation.
+				</P>
+	</OL>
+	<P CLASS="western"><STRONG>2. Fair Use Rights.</STRONG> Nothing in
+	this license is intended to reduce, limit, or restrict any rights
+	arising from fair use, first sale or other limitations on the
+	exclusive rights of the copyright owner under copyright law or other
+	applicable laws.
+	</P>
+	<P CLASS="western"><STRONG>3. License Grant.</STRONG> Subject to the
+	terms and conditions of this License, Licensor hereby grants You a
+	worldwide, royalty-free, non-exclusive, perpetual (for the duration
+	of the applicable copyright) license to exercise the rights in the
+	Work as stated below:
+	</P>
+	<OL TYPE=a>
+		<LI><P CLASS="western" STYLE="margin-bottom: 0in">to reproduce the
+		Work, to incorporate the Work into one or more Collective Works,
+		and to reproduce the Work as incorporated in the Collective Works;
+		</P>
+		<LI><P CLASS="western">to distribute copies or phonorecords of,
+		display publicly, perform publicly, and perform publicly by means
+		of a digital audio transmission the Work including as incorporated
+		in Collective Works;
+		</P>
+	</OL>
+	<P CLASS="western">The above rights may be exercised in all media
+	and formats whether now known or hereafter devised. The above rights
+	include the right to make such modifications as are technically
+	necessary to exercise the rights in other media and formats, but
+	otherwise you have no rights to make Derivative Works. All rights
+	not expressly granted by Licensor are hereby reserved, including but
+	not limited to the rights set forth in Sections 4(d) and 4(e).</P>
+	<P CLASS="western"><STRONG>4. Restrictions. </STRONG>The license
+	granted in Section 3 above is expressly made subject to and limited
+	by the following restrictions:
+	</P>
+	<OL TYPE=a>
+		<LI><P CLASS="western" STYLE="margin-bottom: 0in">You may
+		distribute, publicly display, publicly perform, or publicly
+		digitally perform the Work only under the terms of this License,
+		and You must include a copy of, or the Uniform Resource Identifier
+		for, this License with every copy or phonorecord of the Work You
+		distribute, publicly display, publicly perform, or publicly
+		digitally perform. You may not offer or impose any terms on the
+		Work that alter or restrict the terms of this License or the
+		recipients' exercise of the rights granted hereunder. You may not
+		sublicense the Work. You must keep intact all notices that refer to
+		this License and to the disclaimer of warranties. You may not
+		distribute, publicly display, publicly perform, or publicly
+		digitally perform the Work with any technological measures that
+		control access or use of the Work in a manner inconsistent with the
+		terms of this License Agreement. The above applies to the Work as
+		incorporated in a Collective Work, but this does not require the
+		Collective Work apart from the Work itself to be made subject to
+		the terms of this License. If You create a Collective Work, upon
+		notice from any Licensor You must, to the extent practicable,
+		remove from the Collective Work any credit as required by clause
+		4(c), as requested.
+		</P>
+		<LI><P CLASS="western" STYLE="margin-bottom: 0in">You may not
+		exercise any of the rights granted to You in Section 3 above in any
+		manner that is primarily intended for or directed toward commercial
+		advantage or private monetary compensation. The exchange of the
+		Work for other copyrighted works by means of digital file-sharing
+		or otherwise shall not be considered to be intended for or directed
+		toward commercial advantage or private monetary compensation,
+		provided there is no payment of any monetary compensation in
+		connection with the exchange of copyrighted works.
+		</P>
+		<LI><P CLASS="western" STYLE="margin-bottom: 0in">If you
+		distribute, publicly display, publicly perform, or publicly
+		digitally perform the Work, You must keep intact all copyright
+		notices for the Work and provide, reasonable to the medium or means
+		You are utilizing: (i) the name of the Original Author (or
+		pseudonym, if applicable) if supplied, and/or (ii) if the Original
+		Author and/or Licensor designate another party or parties (e.g. a
+		sponsor institute, publishing entity, journal) for attribution in
+		Licensor's copyright notice, terms of service or by other
+		reasonable means, the name of such party or parties; the title of
+		the Work if supplied; and to the extent reasonably practicable, the
+		Uniform Resource Identifier, if any, that Licensor specifies to be
+		associated with the Work, unless such URI does not refer to the
+		copyright notice or licensing information for the Work. Such credit
+		may be implemented in any reasonable manner; provided, however,
+		that in the case of a Collective Work, at a minimum such credit
+		will appear where any other comparable authorship credit appears
+		and in a manner at least as prominent as such other comparable
+		authorship credit.
+		</P>
+		<LI><P CLASS="western">For the avoidance of doubt, where the Work
+		is a musical composition:</P>
+		<OL TYPE=i>
+			<LI><P CLASS="western" STYLE="margin-bottom: 0in"><STRONG>Performance
+			Royalties Under Blanket Licenses</STRONG>. Licensor reserves the
+			exclusive right to collect, whether individually or via a
+			performance rights society (e.g. ASCAP, BMI, SESAC), royalties for
+			the public performance or public digital performance (e.g.
+			webcast) of the Work if that performance is primarily intended for
+			or directed toward commercial advantage or private monetary
+			compensation.
+			</P>
+		</OL>
+		<LI><P CLASS="western" STYLE="margin-bottom: 0in"><STRONG>Mechanical
+		Rights and Statutory Royalties</STRONG>. Licensor reserves the
+		exclusive right to collect, whether individually or via a music
+		rights agency or designated agent (e.g. Harry Fox Agency),
+		royalties for any phonorecord You create from the Work (&quot;cover
+		version&quot;) and distribute, subject to the compulsory license
+		created by 17 USC Section 115 of the US Copyright Act (or the
+		equivalent in other jurisdictions), if Your distribution of such
+		cover version is primarily intended for or directed toward
+		commercial advantage or private monetary compensation.</P>
+		<LI><P CLASS="western"><STRONG>Webcasting Rights and Statutory
+		Royalties.</STRONG> For the avoidance of doubt, where the Work is a
+		sound recording, Licensor reserves the exclusive right to collect,
+		whether individually or via a performance-rights society (e.g.
+		SoundExchange), royalties for the public digital performance (e.g.
+		webcast) of the Work, subject to the compulsory license created by
+		17 USC Section 114 of the US Copyright Act (or the equivalent in
+		other jurisdictions), if Your public digital performance is
+		primarily intended for or directed toward commercial advantage or
+		private monetary compensation.
+		</P>
+	</OL>
+	<P CLASS="western"><STRONG>5. Representations, Warranties and
+	Disclaimer</STRONG></P>
+	<P CLASS="western">UNLESS OTHERWISE MUTUALLY AGREED BY THE PARTIES
+	IN WRITING, LICENSOR OFFERS THE WORK AS-IS AND MAKES NO
+	REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE WORK,
+	EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT
+	LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A
+	PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE ABSENCE OF LATENT OR
+	OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS,
+	WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE
+	EXCLUSION OF IMPLIED WARRANTIES, SO SUCH EXCLUSION MAY NOT APPLY TO
+	YOU.</P>
+	<P CLASS="western"><STRONG>6. Limitation on Liability.</STRONG>
+	EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL
+	LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL,
+	INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT
+	OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF LICENSOR HAS BEEN
+	ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+	</P>
+	<P CLASS="western"><STRONG>7. Termination</STRONG>
+	</P>
+	<OL TYPE=a>
+		<LI><P CLASS="western" STYLE="margin-bottom: 0in">This License and
+		the rights granted hereunder will terminate automatically upon any
+		breach by You of the terms of this License. Individuals or entities
+		who have received Collective Works from You under this License,
+		however, will not have their licenses terminated provided such
+		individuals or entities remain in full compliance with those
+		licenses. Sections 1, 2, 5, 6, 7, and 8 will survive any
+		termination of this License.
+		</P>
+		<LI><P CLASS="western">Subject to the above terms and conditions,
+		the license granted here is perpetual (for the duration of the
+		applicable copyright in the Work). Notwithstanding the above,
+		Licensor reserves the right to release the Work under different
+		license terms or to stop distributing the Work at any time;
+		provided, however that any such election will not serve to withdraw
+		this License (or any other license that has been, or is required to
+		be, granted under the terms of this License), and this License will
+		continue in full force and effect unless terminated as stated
+		above.
+		</P>
+	</OL>
+	<P CLASS="western"><STRONG>8. Miscellaneous</STRONG>
+	</P>
+	<OL TYPE=a>
+		<LI><P CLASS="western" STYLE="margin-bottom: 0in">Each time You
+		distribute or publicly digitally perform the Work or a Collective
+		Work, the Licensor offers to the recipient a license to the Work on
+		the same terms and conditions as the license granted to You under
+		this License.
+		</P>
+		<LI><P CLASS="western" STYLE="margin-bottom: 0in">If any provision
+		of this License is invalid or unenforceable under applicable law,
+		it shall not affect the validity or enforceability of the remainder
+		of the terms of this License, and without further action by the
+		parties to this agreement, such provision shall be reformed to the
+		minimum extent necessary to make such provision valid and
+		enforceable.
+		</P>
+		<LI><P CLASS="western" STYLE="margin-bottom: 0in">No term or
+		provision of this License shall be deemed waived and no breach
+		consented to unless such waiver or consent shall be in writing and
+		signed by the party to be charged with such waiver or consent.
+		</P>
+		<LI><P CLASS="western">This License constitutes the entire
+		agreement between the parties with respect to the Work licensed
+		here. There are no understandings, agreements or representations
+		with respect to the Work not specified here. Licensor shall not be
+		bound by any additional provisions that may appear in any
+		communication from You. This License may not be modified without
+		the mutual written agreement of the Licensor and You.
+		</P>
+	</OL>
+	<P CLASS="western">Creative Commons is not a party to this License,
+	and makes no warranty whatsoever in connection with the Work.
+	Creative Commons will not be liable to You or any party on any legal
+	theory for any damages whatsoever, including without limitation any
+	general, special, incidental or consequential damages arising in
+	connection to this license. Notwithstanding the foregoing two (2)
+	sentences, if Creative Commons has expressly identified itself as
+	the Licensor hereunder, it shall have all rights and obligations of
+	Licensor.
+	</P>
+	<P CLASS="western">Except for the limited purpose of indicating to
+	the public that the Work is licensed under the CCPL, neither party
+	will use the trademark &quot;Creative Commons&quot; or any related
+	trademark or logo of Creative Commons without the prior written
+	consent of Creative Commons. Any permitted use will be in compliance
+	with Creative Commons' then-current trademark usage guidelines, as
+	may be published on its website or otherwise made available upon
+	request from time to time.</P>
+	<P CLASS="western">Creative Commons may be contacted at
+	<A HREF="http://creativecommons.org/">http://creativecommons.org/</A>.</P>
+	<P CLASS="western" ALIGN=LEFT STYLE="margin-bottom: 0.1in"><BR><BR>
+	</P>
+</DIV>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+</BODY>
+</HTML>

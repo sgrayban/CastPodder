@@ -1,0 +1,136 @@
+/*                                   */
+/*  CastPodder stylesheet            */
+/*  http://www.castpodder.net        */
+/*                                   */
+
+/* $Id$ */ 
+
+body {
+    background-attachment : fixed;
+    background-color : #EFEFEF;
+    font-family : Tahoma, georgia, arial, 'Times New Roman', 'sans-serif', times, verdana;
+    font-size : 12px;
+    height : 100%;
+    margin-bottom : 0px;
+    margin-left : 0px;
+    margin-right : 0px;
+    margin-top : 0px;
+    padding-bottom : 0px;
+    padding-left : 0px;
+    padding-right : 0px;
+    padding-top : 0px;
+    scrollbar-3dlight-color : #FFFFFF;
+    scrollbar-arrow-color : #6395EF;
+    scrollbar-darkshadow-color : #107120;
+    scrollbar-face-color : #107120;
+    scrollbar-highlight-color : #6395EF;
+    scrollbar-shadow-color : #6395EF;
+    scrollbar-track-color : #107120;
+    border-bottom: 1px solid #107120;
+  }
+
+
+img {
+    border: 0px;
+  }
+
+
+abbr, acronym, span.abbr {
+    cursor: help;
+    border-bottom: 1px dashed #000;
+  }
+
+
+hr {
+    height: 1px;
+    color: #000000;
+  }
+
+
+table {
+    border: 0px;
+    font-size : 12px;
+  }
+
+
+a:link {
+    color: #107120;
+    text-decoration: none;
+    border-bottom: #107120;
+    border-width: 0px 0px 1px 0px;
+    border-style: none none dashed none;
+  }
+
+
+a:visited {
+    color: #107120;
+    text-decoration: none;
+    border-bottom: #107120;
+    border-width: 0px 0px 1px 0px;
+    border-style: none none dashed none;
+  }
+
+
+a:hover {
+    color: #107120;
+    text-decoration: none;
+    border-bottom: #107120;
+    border-width: 0px 0px 1px 0px;
+    border-style: none none solid none;
+  }
+
+
+a.pagelink:visited {
+    color: #107120;
+    text-decoration: none;
+    border-bottom: #107120;
+    border-width: 0px 0px 1px 0px;
+    border-style: none none dashed none;
+  }
+
+
+.navigation {
+    padding-right: 15px;
+    padding-top: 30px;
+    color: #C05800;
+  }
+
+
+.column_left {
+    background-color: #AFAFAF;
+    width: 15%;
+    font-size : 12px;
+    color: #C05800;
+    border-right: 1px solid #107120;
+  }
+
+
+.column_right {
+    background-color: #AFAFAF;
+    width: 15%;
+    padding-top: 30px;
+    padding-left: 15px;
+    font-size : 12px;
+    border-left: 1px solid #107120;
+    color: #C05800;
+  }
+
+
+.footer {
+    background-color: #AFAFAF;
+    font-size : 12px;
+    color: #8B0000;
+    border-top: 1px solid #107120;
+  }
+
+.header {
+    color: #8B0000;
+}
+
+.header_with_line {
+    line-height: 22px;
+    font-size: 18px;
+    font-weight: normal;
+    color: #8B0000;
+    align: left;
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="183"
+   name=""
+   committed-date="2005-11-27T01:40:07.967217Z"
+   url="svn://svn.borgnet.us:81/castpodder-web/css"
+   last-author="sgrayban"
+   kind="dir"
+   uuid="9a226a7e-8a03-0410-92b7-c4920bc7bf3b"
+   repos="svn://svn.borgnet.us:81/castpodder-web"
+   revision="291"/>
+<entry
+   committed-rev="183"
+   name="styles.css"
+   text-time="2005-11-27T01:40:08.000000Z"
+   committed-date="2005-11-27T01:40:07.967217Z"
+   checksum="e7d7624b18340c781e9ad006f9f91ba5"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="51"
+   name="index.php"
+   text-time="2005-10-31T09:28:56.000000Z"
+   committed-date="2005-10-31T09:28:56.494820Z"
+   checksum="cabc4b52172550463cfc0197d3afe51b"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+</wc-entries>

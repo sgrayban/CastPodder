@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="159"
+   name=""
+   committed-date="2005-11-24T08:21:53.190599Z"
+   url="svn://svn.borgnet.us:81/castpodder-web/includes/rss-cache"
+   last-author="sgrayban"
+   kind="dir"
+   uuid="9a226a7e-8a03-0410-92b7-c4920bc7bf3b"
+   repos="svn://svn.borgnet.us:81/castpodder-web"
+   revision="291"/>
+<entry
+   committed-rev="159"
+   name=".keepme"
+   text-time="2005-11-24T08:11:15.000000Z"
+   committed-date="2005-11-24T08:21:53.190599Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+</wc-entries>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="1.1">
+    <head>
+         <title>CastPodder Team Directory</title>
+         <dateCreated>Mon, 21 Nov 2005 00:11:24 +0100</dateCreated>
+         <dateModified>Mon, 21 Nov 2005 00:11:24 +0100</dateModified>
+         <ownerName>CastPodder Development Team</ownerName>
+         <ownerEmail>castpodder-linux@lists.borgforge.net</ownerEmail>
+    </head>
+    <body>
+        <outline text="CastPodder Dev Team Recommendations">
+            <outline text="Scott Grayban" type="link" url="http://www.castpodder.net/opml/castpodder-sgrayban.opml"/>
+        </outline>
+        <outline text="CastPodder Team Podcasts">
+            <outline type="link" text="CastPodder Users" url="http://www.castpodder.net/podcasts/castpodder-users.xml"/>
+            <outline type="link" text="CastPodder Developers" url="http://www.castpodder.net/podcasts/castpodder-dev.xml"/>
+        </outline>
+    </body>
+</opml>

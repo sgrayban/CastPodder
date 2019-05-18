@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="154"
+   name=""
+   committed-date="2005-11-24T07:42:06.251602Z"
+   url="svn://svn.borgnet.us:81/castpodder-web/opml"
+   last-author="sgrayban"
+   kind="dir"
+   uuid="9a226a7e-8a03-0410-92b7-c4920bc7bf3b"
+   repos="svn://svn.borgnet.us:81/castpodder-web"
+   revision="291"/>
+<entry
+   committed-rev="154"
+   name="castpodder-sgrayban.opml"
+   text-time="2005-11-21T10:35:08.000000Z"
+   committed-date="2005-11-24T07:42:06.251602Z"
+   checksum="a370ce297f946aa1743113c9a79d6c10"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="154"
+   name="CastPodder.opml"
+   text-time="2005-11-21T10:45:40.000000Z"
+   committed-date="2005-11-24T07:42:06.251602Z"
+   checksum="9fefc6d833f382e6037ae0899ec5725c"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+</wc-entries>

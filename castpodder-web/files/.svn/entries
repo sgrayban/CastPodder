@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="300"
+   name=""
+   committed-date="2006-04-29T15:09:37.452120Z"
+   url="svn://svn.borgnet.us:81/castpodder-web/files"
+   last-author="sgrayban"
+   kind="dir"
+   repos="svn://svn.borgnet.us:81/castpodder-web"
+   revision="300"/>
+<entry
+   name="CastPodder-4.0.tar.bz2"
+   kind="file"
+   deleted="true"
+   revision="387"/>
+<entry
+   name="CastPodder-5.0.tar.bz2"
+   kind="file"
+   deleted="true"
+   revision="387"/>
+<entry
+   name="CastPodder-4.0-gui-installer.bin"
+   kind="file"
+   deleted="true"
+   revision="387"/>
+<entry
+   name="CastPodder-5.0-gui-installer.bin"
+   kind="file"
+   deleted="true"
+   revision="387"/>
+<entry
+   name="castpodder_5.3-2_all.deb"
+   kind="file"
+   deleted="true"
+   revision="388"/>
+</wc-entries>

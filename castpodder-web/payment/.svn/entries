@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2005-10-20T07:57:14.547870Z"
+   url="svn://svn.borgnet.us:81/castpodder-web/payment"
+   last-author="sgrayban"
+   kind="dir"
+   uuid="9a226a7e-8a03-0410-92b7-c4920bc7bf3b"
+   repos="svn://svn.borgnet.us:81/castpodder-web"
+   revision="291"/>
+<entry
+   committed-rev="3"
+   name="thank_you.php"
+   text-time="2005-10-20T07:57:15.000000Z"
+   committed-date="2005-10-20T07:57:14.547870Z"
+   checksum="2007e0926370ad3d61ca10b04bdfbd5e"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="3"
+   name="index.php"
+   text-time="2005-10-20T07:57:15.000000Z"
+   committed-date="2005-10-20T07:57:14.547870Z"
+   checksum="735bdc731b555ec9d964128dd6046b58"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+</wc-entries>

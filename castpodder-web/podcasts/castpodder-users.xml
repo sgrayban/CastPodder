@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+	<title>CastPodder-Users</title>
+    <link>http://borgforge.net/projects/castpodder/</link>
+	<description>CastPodder user podcast</description>
+	<language>en-us</language>
+	<copyright>Copyright 2005-2006</copyright>
+	<pubDate>Fri, 7 Oct 2005 02:24:00 +0000</pubDate>
+    <generator>http://www.vim.org/</generator>
+    <item>
+        <title>You ROCK!</title>
+        <pubDate>Fri, 7 Oct 2005 02:24:00 +0000</pubDate>
+        <description>Hey, thanks for trying CastPodder!</description>
+        <enclosure url="http://www.castpodder.net/podcasts/castpodder-users-1.mp3" length="500630" type="audio/mpeg"/>
+    </item>
+	</channel>
+</rss>

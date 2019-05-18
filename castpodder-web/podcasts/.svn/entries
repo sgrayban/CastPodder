@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="264"
+   name=""
+   committed-date="2006-03-19T20:07:15.012953Z"
+   url="svn://svn.borgnet.us:81/castpodder-web/podcasts"
+   last-author="sgrayban"
+   kind="dir"
+   uuid="9a226a7e-8a03-0410-92b7-c4920bc7bf3b"
+   repos="svn://svn.borgnet.us:81/castpodder-web"
+   revision="291"/>
+<entry
+   committed-rev="2"
+   name="castpodder-users-1.mp3"
+   text-time="2005-10-20T07:28:08.000000Z"
+   committed-date="2005-10-20T07:46:35.904196Z"
+   checksum="fef892439851f742177be3043e6eaf39"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="154"
+   name="castpodder-dev.xml"
+   text-time="2005-11-21T10:46:24.000000Z"
+   committed-date="2005-11-24T07:42:06.251602Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="264"
+   name="castpodder-users.xml"
+   text-time="2006-03-19T20:05:49.000000Z"
+   committed-date="2006-03-19T20:07:15.012953Z"
+   checksum="06d4d6a19face0280c436c4239710fd5"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="3"
+   name="index.php"
+   text-time="2005-10-20T07:57:15.000000Z"
+   committed-date="2005-10-20T07:57:14.547870Z"
+   checksum="735bdc731b555ec9d964128dd6046b58"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+</wc-entries>

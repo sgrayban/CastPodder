@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="232"
+   name=""
+   committed-date="2005-12-11T22:00:05.713532Z"
+   url="svn://svn.borgnet.us:81/castpodder-web/update"
+   last-author="sgrayban"
+   kind="dir"
+   uuid="9a226a7e-8a03-0410-92b7-c4920bc7bf3b"
+   repos="svn://svn.borgnet.us:81/castpodder-web"
+   revision="291"/>
+<entry
+   committed-rev="341"
+   name="current_version_linux.xml"
+   text-time="2006-07-25T13:02:49.000000Z"
+   committed-date="2006-07-25T13:03:36.641838Z"
+   checksum="915d97f66a585bfb664bfd7a5a6b4959"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"
+   revision="341"/>
+<entry
+   committed-rev="2"
+   name="current_version.xml"
+   text-time="2005-10-20T07:28:08.000000Z"
+   committed-date="2005-10-20T07:46:35.904196Z"
+   checksum="18650c64bd574e81bd9fc5d009af9921"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="3"
+   name="index.php"
+   text-time="2005-10-20T07:57:15.000000Z"
+   committed-date="2005-10-20T07:57:14.547870Z"
+   checksum="735bdc731b555ec9d964128dd6046b58"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+</wc-entries>

@@ -1,0 +1,2442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="266"
+   name=""
+   committed-date="2006-03-21T22:23:08.446176Z"
+   url="svn://svn.borgnet.us:81/castpodder-web/images"
+   last-author="sgrayban"
+   kind="dir"
+   uuid="9a226a7e-8a03-0410-92b7-c4920bc7bf3b"
+   repos="svn://svn.borgnet.us:81/castpodder-web"
+   revision="291"/>
+<entry
+   committed-rev="125"
+   name="mo.gif"
+   text-time="2000-02-10T21:01:22.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="05774f92321226053427364407bbf3e6"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="it.gif"
+   text-time="2000-02-10T21:01:06.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="c0baa4190d04bd2c8392450708cc9cc6"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ms.gif"
+   text-time="2000-02-10T21:01:24.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="2c01695f692d10ba10fba3ff1c56b071"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="75x255.gif"
+   text-time="2004-01-22T18:47:12.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="79724dbe92658d7c1095a4c2a45bceb6"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ba.gif"
+   text-time="2000-02-10T21:00:26.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="638373aaa00e468334da192036b5c6e9"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="mw.gif"
+   text-time="2000-02-10T21:01:26.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="6b6a6a779af88209a55a6b3970dea50c"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="be.gif"
+   text-time="2000-02-10T21:00:28.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="b6f7f3d21c0d8cf47cfc9916d227028c"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="bi.gif"
+   text-time="2000-02-10T21:00:30.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="c43bdac4fac90c721f43986ed0e68b2f"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="uy.gif"
+   text-time="2000-02-10T21:01:58.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="7538f6cd92cd72d64dca756ed353537b"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="bm.gif"
+   text-time="2000-02-10T21:00:30.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="87c1ae39337d93118bcafb619f35e334"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="nf.gif"
+   text-time="2000-02-10T21:01:28.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="1f2acf1f739340fb42bb708441bc8a74"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="jo.gif"
+   text-time="2000-02-10T21:01:06.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="15fa8a2d2313e487479704ee3151b5c4"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="by.gif"
+   text-time="2000-02-10T21:00:34.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="5d64c8ec41e5c52aaf0fc783e0a6a076"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="200x200.gif"
+   text-time="2004-01-22T20:15:36.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="ce9ff545d624a5ba739533fe1ba4068a"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="nr.gif"
+   text-time="2000-02-10T21:01:32.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="c2c5c5129aaaeaec13b79d354d2a0ff0"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ru.gif"
+   text-time="2000-02-10T21:01:40.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="0b436e4d43237f29a038d32c9e16e395"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="cd.gif"
+   text-time="2000-02-10T21:00:36.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="a595a995b518e85ffa050a96a8ca72d6"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="nz.gif"
+   text-time="2000-02-10T21:01:32.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="c632487e30e1b45da564091d16885534"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="intertrans.gif"
+   text-time="2004-01-14T20:51:44.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="77c844fbc362bce3c0f6c843971e67d1"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ch.gif"
+   text-time="2000-02-10T21:00:38.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="4f7c7afbb954de7f80e67241ed355617"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="107"
+   name="podcastalley_icon.gif"
+   text-time="2005-11-20T00:03:05.000000Z"
+   committed-date="2005-11-20T00:23:46.705220Z"
+   checksum="0773152ee15e91933074ba20700f47e5"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="cl.gif"
+   text-time="2000-02-10T21:00:38.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="7de0f59c46be02ed7d69bc42f582f534"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="60x200.gif"
+   text-time="2004-01-22T18:43:42.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="cbfdf87495a89abb0df39e1de4ebc3a8"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="zw.gif"
+   text-time="2000-02-10T21:02:06.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="c0ae55026d2e1050f5e6df91bdc3072f"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="sd.gif"
+   text-time="2000-02-10T21:01:44.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="1dab8f8de535608f10f19983ac38f7e3"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="kn.gif"
+   text-time="2000-02-10T21:01:10.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="7265fe5487588292e529fb78e9957402"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="380"
+   name="splashscreen.png"
+   text-time="2006-11-06T13:05:43.000000Z"
+   committed-date="2006-11-06T13:06:40.441859Z"
+   checksum="33dcc1992f608d64ce72d9f93cd02388"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"
+   revision="380"/>
+<entry
+   committed-rev="125"
+   name="cx.gif"
+   text-time="2000-02-10T21:00:42.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="340095dcec5b73a9f0acc04855006dc6"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="sh.gif"
+   text-time="2000-02-10T21:01:44.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="6a171bd390cbf23cb2c91d3e00365e65"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="om.gif"
+   text-time="2000-02-10T21:01:34.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="96c02afaa66369b03682cd1cdfa6820b"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="kr.gif"
+   text-time="2000-02-10T21:01:10.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="c72cbc3a2e10b1aaceb8003759fa17d7"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="gw.gif"
+   text-time="2000-02-10T21:00:58.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="3f7777d2e842f1ad01182dd83e6f163d"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="sl.gif"
+   text-time="2000-02-10T21:01:46.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="4244e7994c324878c5b57f30bd5f04aa"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="kz.gif"
+   text-time="2000-02-10T21:01:12.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="175ef27c1b6498aaa39c8811ba73e18e"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="154"
+   name="dl_linux_bsd.png"
+   text-time="2005-11-22T11:53:52.000000Z"
+   committed-date="2005-11-24T07:42:06.251602Z"
+   checksum="1c3043d586c2bf4538d78521bb9ba7c1"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="st.gif"
+   text-time="2000-02-10T21:01:48.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="a9a15b702aa7685410fe1ef924a93fb5"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ws.gif"
+   text-time="2000-02-10T21:02:04.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="edc0d81202ab1925078795f3bdbbaf0c"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="la.gif"
+   text-time="2000-02-10T21:01:12.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="2abed7817a1947d47e15a9f44b5421c8"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="dk.gif"
+   text-time="2000-02-10T21:00:44.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="77b658286234bf30b9a8cba5d348c304"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="do.gif"
+   text-time="2000-02-10T21:00:46.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="56ea63fdc6999363e4b460245541d644"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="li.gif"
+   text-time="2000-02-10T21:01:14.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="2713714144711748e65e189eec6147a8"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="hn.gif"
+   text-time="2000-02-10T21:01:00.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="53c64bff468e9a140abddcb82935b0f4"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="tc.gif"
+   text-time="2000-02-10T21:01:50.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="66399ccfdd19eb1d904b9fcb2dd2c568"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ph.gif"
+   text-time="2000-02-10T21:01:36.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="3ee333e3f3605775d4c6e4faba135660"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   name="PythonPowered.gif"
+   kind="file"
+   deleted="true"
+   revision="348"/>
+<entry
+   committed-rev="125"
+   name="hr.gif"
+   text-time="2000-03-17T22:07:32.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="ab71cef3e502939ab2315abb4c2ed64e"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="tg.gif"
+   text-time="2000-02-10T21:01:50.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="c1b2263f88503b26a3cf4ff78e6b6667"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="pl.gif"
+   text-time="2000-02-10T21:01:36.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="11b910bca8829e7e8cf044a1dd24185d"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="lu.gif"
+   text-time="2000-02-10T21:01:16.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="ee1ed84d23a17c958f862d26d36d0c49"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="to.gif"
+   text-time="2000-02-10T21:01:54.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="5feba3e11772932524beb509a5b5bfe5"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="pt.gif"
+   text-time="2000-02-10T21:01:38.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="8935588504a516af771fae9626da9391"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ly.gif"
+   text-time="2000-02-10T21:01:16.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="cd3553cd1994d411f1aea4daa90b82eb"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="103"
+   name="logo_podnova.gif"
+   text-time="2005-11-19T23:38:43.000000Z"
+   committed-date="2005-11-19T23:52:43.362245Z"
+   checksum="70283a7825c4c4904a66ce17b56206be"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ag.gif"
+   text-time="2000-02-10T21:00:20.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="cb0efa844bb6e78672cffc606d0b41b7"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="tw.gif"
+   text-time="2000-02-10T21:01:56.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="d81cb1652d045833e313672f3958ef2d"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ie.gif"
+   text-time="2000-02-10T21:01:02.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="dd1f767b0d42c08def315e1f9cd85efc"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ao.gif"
+   text-time="2000-02-10T21:00:22.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="c398824e58516ba07aaad036d112356d"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="md.gif"
+   text-time="2000-02-10T21:01:18.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="29de6a5d6f0cdd144a6cd433f1bee0ea"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="2"
+   name="rss-news.png"
+   text-time="2005-10-20T07:28:08.000000Z"
+   committed-date="2005-10-20T07:46:35.904196Z"
+   checksum="63720c6c4a90520db4513a726da443c8"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="as.gif"
+   text-time="2000-02-10T21:00:22.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="0ad8759e0f4069083010cbbdba86f910"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="mh.gif"
+   text-time="2000-02-10T21:01:20.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="37e992c9e356c70eb00c7f3ddb77899e"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="er.gif"
+   text-time="2000-02-10T21:00:48.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="4cf2ed617a94c26fd21bdcc4955bf655"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ml.gif"
+   text-time="2000-02-10T21:01:20.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="13be0b5a51a29b9f179d4744cd69f357"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="iq.gif"
+   text-time="2000-02-10T21:01:04.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="abe9a8a2eec04f64cd632e5194e64108"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="mp.gif"
+   text-time="2000-02-10T21:01:22.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="76629be1cd8d850d5f4eaf17339fc2d2"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ye.gif"
+   text-time="2000-02-10T21:02:04.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="5ca528579f1dc638cc81df14feb0d222"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="mt.gif"
+   text-time="2000-02-10T21:01:24.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="7853bbc31d24a8dd32824e1e1b3f1910"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="bb.gif"
+   text-time="2000-02-10T21:00:26.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="1ab2467607c01c3f567867695c44ed7b"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="mx.gif"
+   text-time="2000-02-10T21:01:26.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="fff661f4d6a8317fc838d3d1752c3ca7"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="bf.gif"
+   text-time="2000-02-10T21:00:28.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="a6745ca4fed1ad5f506946468c124c71"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="bj.gif"
+   text-time="2000-02-10T21:00:30.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="2fc686808947f4417673a48638b2c373"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="yu.gif"
+   text-time="2002-03-29T23:02:08.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="2ad97e3993548b9a512eb711ac9b01ac"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="uz.gif"
+   text-time="2000-02-10T21:02:00.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="e0f16566fd08891eb043234cbcff20f9"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="fi.gif"
+   text-time="2000-02-10T21:00:50.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="80f75704c7c260fce1d5c1f4bd2a4b22"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="bn.gif"
+   text-time="2000-02-10T21:00:30.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="8b52f8ba927758451cb4e557e99619c8"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="nc.gif"
+   text-time="2000-02-10T21:01:28.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="5a9a590771e52dc8871dc9cb39799357"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="fm.gif"
+   text-time="2000-02-10T21:00:50.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="d21e6c00b62823342ff6301d2d46bd84"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="br.gif"
+   text-time="2000-02-10T21:00:32.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="dff72682135ec369d485243e227b2f2a"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ng.gif"
+   text-time="2000-02-10T21:01:30.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="a7a30472af26e1e4402dcab9ffdcdb0d"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="2"
+   name="logo_gnu.gif"
+   text-time="2005-10-20T07:28:08.000000Z"
+   committed-date="2005-10-20T07:46:35.904196Z"
+   checksum="8dad66000de665541273e55e0ac366ee"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="jp.gif"
+   text-time="2000-02-10T21:01:06.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="0e2ea7125915e6330c8fe8ccbeabfd95"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ve.gif"
+   text-time="2000-02-10T21:02:00.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="cf72fd1e0340532eb265b334a46c09b2"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="bz.gif"
+   text-time="2000-02-10T21:00:34.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="6b4ac1cfc858b0cefdaaacc4aa26b628"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="no.gif"
+   text-time="2000-02-10T21:01:30.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="39f0923e421cc6b6f70c6a692ddeb9f0"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="109"
+   name="spacer.gif"
+   text-time="2005-11-06T14:41:06.000000Z"
+   committed-date="2005-11-20T00:30:32.304090Z"
+   checksum="325472601571f31e1bf00674c368d335"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="vi.gif"
+   text-time="2000-02-10T21:02:02.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="1d40681497a6e5cc3b66a612a682412e"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="103"
+   name="logo_gigadial.gif"
+   text-time="2005-11-19T23:38:50.000000Z"
+   committed-date="2005-11-19T23:52:43.362245Z"
+   checksum="52f13237ac45cb05d91a422c39923356"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ca.gif"
+   text-time="2000-02-10T21:00:34.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="491133bd23ca881477432969af2d7ff2"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="2"
+   name="rss.png"
+   text-time="2005-10-20T07:28:08.000000Z"
+   committed-date="2005-10-20T07:46:35.904196Z"
+   checksum="18337a76fb0c279888eb7c4c06133f4d"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="eun.gif"
+   text-time="2000-02-10T21:00:48.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="cb398f59bf684703d70c4992dbe520a1"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="vu.gif"
+   text-time="2000-02-10T21:02:02.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="d02ec59ff5f48bfbb8274e1af5722ca3"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="gd.gif"
+   text-time="2000-02-10T21:00:52.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="fa7de87b3181ea7f3f73e6fd7426ab9c"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ci.gif"
+   text-time="2000-02-10T21:00:38.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="5e055616a56d8fd9b91c64ea399155fc"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="flags.gif"
+   text-time="2001-03-02T07:39:08.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="0eef89ecf8a3fda134a0b54c03be246d"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="gh.gif"
+   text-time="2000-02-10T21:00:54.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="ea342544aea67112824297aeed80a23e"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="cm.gif"
+   text-time="2000-02-10T21:00:40.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="c90ec2ef67ccfac4c8375d075cdd6496"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="kg.gif"
+   text-time="2000-02-10T21:01:08.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="3196d4b2f3f882025f00f4eaeb70c5fc"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="gl.gif"
+   text-time="2000-02-10T21:00:54.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="091e3211d9f632b4000d107b2942a637"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="sa.gif"
+   text-time="2000-02-10T21:01:42.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="2ec3369d84de477061f8e2b2477f3fcf"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="gp.gif"
+   text-time="2000-02-10T21:00:56.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="3896d996f33642998ffaf818faf933e5"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="se.gif"
+   text-time="2000-02-10T21:01:44.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="185727ee10cc98665b3acc2d301a0901"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="cu.gif"
+   text-time="2000-02-10T21:00:42.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="a7353784b84a14ce970d6991ae667941"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="gt.gif"
+   text-time="2000-02-10T21:00:58.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="1ff8801af7104ad8acdc09c4fc2a1b58"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="si.gif"
+   text-time="2000-02-10T21:01:44.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="c13c7d42d45163b45ece5ba6a3b3efba"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="cy.gif"
+   text-time="2000-02-10T21:00:42.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="6d0ab54c75ddf1717bccc2a2ee938770"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="sm.gif"
+   text-time="2000-02-10T21:01:46.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="c7d84b221f9d30747c574dca337cb91e"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="kw.gif"
+   text-time="2000-02-10T21:01:10.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="a09e82711fa29bf1e5dd099eb79e29b5"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="266"
+   name="bflogo.png"
+   text-time="2006-03-21T22:22:48.000000Z"
+   committed-date="2006-03-21T22:23:08.446176Z"
+   checksum="8cc89cfdc8b9730360523baee75f2d1d"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2006-03-21T22:22:59.000000Z"/>
+<entry
+   committed-rev="125"
+   name="sy.gif"
+   text-time="2000-02-10T21:01:50.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="f6a16258fcf4f6bf0154b5a055862faa"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="lb.gif"
+   text-time="2000-02-10T21:01:12.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="06da1753843f3b7f7c29e3218eab4832"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="pa.gif"
+   text-time="2000-02-10T21:01:34.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="063894a4b3c67c5553775675dcf09b46"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="hk.gif"
+   text-time="2000-02-10T21:01:00.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="93b85ce1e9191942f2381fb6d1ce6434"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="pe.gif"
+   text-time="2000-02-10T21:01:34.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="121173592aac87c1fca4b573e9b07617"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="td.gif"
+   text-time="2000-02-10T21:01:50.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="6f4d7d4d16627bb0d8796b5b118f9cdd"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="th.gif"
+   text-time="2000-02-10T21:01:52.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="3f7783b20915474b1b643ccd09300bc9"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="pm.gif"
+   text-time="2000-02-10T21:01:36.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="0658ac6988bee4e17fed2bab8ef5b3c7"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="lr.gif"
+   text-time="2000-02-10T21:01:14.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="d2cbce249519e254367789e3d3c9e024"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="lv.gif"
+   text-time="2000-02-10T21:01:16.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="f9ba45750a11a128796a9dfe51c8f4bd"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="tp.gif"
+   text-time="2000-02-10T21:01:54.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="5db55cf9cd9431244f0fbc4c22bf3700"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ad.gif"
+   text-time="2000-02-10T21:00:18.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="074e78636456ced01bfca5ce052d8654"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="tt.gif"
+   text-time="2000-02-10T21:01:56.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="7c589ef3173b42d6c8097d2764f4a3da"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ec.gif"
+   text-time="2000-02-10T21:00:46.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="9b97526a22d65e3b090ce30a329e6963"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="py.gif"
+   text-time="2000-02-10T21:01:40.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="7be40c47f67429bf38cb21d9de9a9f0f"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="eg.gif"
+   text-time="2000-02-10T21:00:48.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="98089f99800bf81e743dcedb0e388e4d"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="al.gif"
+   text-time="2000-02-10T21:00:20.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="9a2c6674825e17bddbd6fdc2a56e6497"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ma.gif"
+   text-time="2000-02-10T21:01:18.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="de88ea75fc89596dfa852ad4d6c2d25b"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="at.gif"
+   text-time="2000-02-10T21:00:24.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="da0430eaeb4176aacb3a6e66ee3d4463"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="in.gif"
+   text-time="2000-02-10T21:01:04.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="f1a5bb2dbb7e53c9d8f8ca9337989766"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="es.gif"
+   text-time="2000-02-10T21:00:48.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="4e8a31d414d08cf32d0bc434eb14156d"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="mm.gif"
+   text-time="2000-02-10T21:01:20.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="9dbd6fe4aad1b54e8fe9f070ae59e2f0"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="41"
+   name="phbb-logo-castpodder.jpg"
+   text-time="2005-10-30T12:57:02.000000Z"
+   committed-date="2005-10-31T08:46:19.291490Z"
+   checksum="174f4ee3f5543d34a13da8d8ec914808"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ir.gif"
+   text-time="2000-02-10T21:01:04.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="4d5e275502ec23f35aca712c6b55d85d"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ug.gif"
+   text-time="2000-02-10T21:01:58.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="40867521c26feb80ab6096afbfcd925d"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="mq.gif"
+   text-time="2000-02-10T21:01:22.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="1a82cd2d6651165db37fb46d50ce8b93"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="uk.gif"
+   text-time="2000-02-10T21:01:58.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="cfdb577064f80177789f32508d52f3c5"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="mu.gif"
+   text-time="2000-02-10T21:01:24.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="b9511c031a488010f6dabad8a29e5b46"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="my.gif"
+   text-time="2000-02-10T21:01:26.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="c9292c37158b180ca60f133bd736d4be"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="us.gif"
+   text-time="2000-02-10T21:01:58.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="faf82bf9eefe575427b3f7e6eb063db0"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="bg.gif"
+   text-time="2000-02-10T21:00:28.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="549a6ecdd4a0beb6d826686d9caf6a12"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="fj.gif"
+   text-time="2000-02-10T21:00:50.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="1009d3150ca5ad6c36a9f3347714ca7e"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="2"
+   name="project-support.png"
+   text-time="2005-10-20T07:28:08.000000Z"
+   committed-date="2005-10-20T07:46:35.904196Z"
+   checksum="e69a01c60bf08e878a09a5f4d8261168"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="bo.gif"
+   text-time="2000-02-10T21:00:32.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="89247a0d5c3f7b011105a6e81e9b3231"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="bs.gif"
+   text-time="2000-02-10T21:00:32.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="f36df6c260edf26c58dd819ae9353ce6"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="jm.gif"
+   text-time="2000-02-10T21:01:06.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="14b2d625e61950154447163ef0d3e57f"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="fr.gif"
+   text-time="2000-02-10T21:00:52.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="a4dbc7cc8c0a837a4d86fd509746fc34"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="bw.gif"
+   text-time="2000-02-10T21:00:34.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="c22f967d39345500651d37e7922f2fce"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="yu-old.gif"
+   text-time="2000-02-10T21:02:04.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="b41c387ae44986cd5775d4f87d3fa7d8"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="nl.gif"
+   text-time="2000-02-10T21:01:30.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="b100d8fc6b12dcefcec63a87b6b716e6"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="za.gif"
+   text-time="2000-02-10T21:02:04.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="8f5d87a18ef7235374edf8a13a183383"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="wales.gif"
+   text-time="2000-02-10T21:02:02.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="e929bb1b3c3b797ae6f8942c565d719e"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="np.gif"
+   text-time="2000-02-10T21:01:32.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="74b784f24c1e38d6f848e8197da79312"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ro.gif"
+   text-time="2000-02-10T21:01:40.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="6f4d7d4d16627bb0d8796b5b118f9cdd"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="150x210.gif"
+   text-time="2004-01-22T19:39:12.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="7b7c2033439fdaed4c595d005e3e44c8"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="vn.gif"
+   text-time="2000-02-10T21:02:02.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="5e227685b559a9670f4b1edb58460108"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="zm.gif"
+   text-time="2000-02-10T21:02:06.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="a4783bc7045a59779d188455379a5ce8"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ga.gif"
+   text-time="2000-02-10T21:00:52.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="861fab64dd641c2950b4ad4de38822b5"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="rw.gif"
+   text-time="2000-02-10T21:01:42.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="b3aa89716c81eb582e6d0c20056fb70e"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="cf.gif"
+   text-time="2000-02-10T21:00:36.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="56fb59672ab969e3d5ca502cf87805b6"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="3"
+   name="index.php"
+   text-time="2005-10-20T07:57:15.000000Z"
+   committed-date="2005-10-20T07:57:14.547870Z"
+   checksum="b514000414c94b778e239b1c3b7232fa"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ge.gif"
+   text-time="2000-02-10T21:00:54.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="71b0ffc970a1053708fe57814efc0658"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="gi.gif"
+   text-time="2000-02-10T21:00:54.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="96c2f16d1df091677c1829ee40ceec7b"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="cn.gif"
+   text-time="2000-02-10T21:00:40.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="f73e29b25ff07761b2f9769fbb83cade"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="kh.gif"
+   text-time="2000-02-10T21:01:08.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="427f3b8a3be65709943be76488b86a49"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="148"
+   name="CastPodder_button.png"
+   text-time="2005-11-24T02:39:28.000000Z"
+   committed-date="2005-11-24T02:40:35.793003Z"
+   checksum="ab3f6c3e37babc26aafe0a86fa80839f"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="gm.gif"
+   text-time="2000-02-10T21:00:54.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="211c7668713888f3feefce0dfca51b45"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="sb.gif"
+   text-time="2000-02-10T21:01:42.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="44bcce1cf2bcfd1908c509d4b5e27c18"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="cr.gif"
+   text-time="2000-02-10T21:00:40.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="ee009730fe793a207a1050345189486d"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="gq.gif"
+   text-time="2000-02-10T21:00:56.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="b448a05fe8ff04a881f1788ac14baa2e"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="cv.gif"
+   text-time="2000-02-10T21:00:42.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="4982225a6c086a684892ed0398decacc"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="329"
+   name="logo_pmn.gif"
+   text-time="2006-07-20T04:25:06.000000Z"
+   committed-date="2006-07-20T04:26:14.239498Z"
+   checksum="2a744c7456a9aa736f92610894120e62"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"
+   revision="329"/>
+<entry
+   committed-rev="125"
+   name="kp.gif"
+   text-time="2000-02-10T21:01:10.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="c20e615c915ddcb355eb126ed0522b37"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="gu.gif"
+   text-time="2000-02-10T21:00:58.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="4c9f4564b9937a5a068fa8b56e88e5ff"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="cz.gif"
+   text-time="2000-02-10T21:00:42.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="b6d8ee2867ddb0f86bced7234d78c679"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="gy.gif"
+   text-time="2000-02-10T21:00:58.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="1b2cc990398a368bc7865a3231c99bcc"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="sn.gif"
+   text-time="2000-02-10T21:01:46.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="a4499983a7821fe2172c4895e77a4212"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="sr.gif"
+   text-time="2000-02-10T21:01:48.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="3cdf91f6b7e169634bd748d246b456f2"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="de.gif"
+   text-time="2000-02-10T21:00:44.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="2be831f9391c852210c29b1759a4cced"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="sv.gif"
+   text-time="2000-02-10T21:01:48.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="32c773a1710fb158127cebbad19610b2"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="sz.gif"
+   text-time="2000-02-10T21:01:50.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="1d9311bbad14694c5bb2c9a133ebdef7"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="lc.gif"
+   text-time="2000-02-10T21:01:12.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="62aaea6b613cbdce7062b69c98c2c7f6"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="dm.gif"
+   text-time="2000-02-10T21:00:44.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="fe062ed4f696623fa35194dd4baa2604"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="pf.gif"
+   text-time="2000-02-10T21:01:34.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="912d2ff4d34fc133f346973174b91529"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="lk.gif"
+   text-time="2000-02-10T21:01:14.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="9cbd03fd649a81a12d72b6a8b5fccaff"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="intertran.gif"
+   text-time="2004-01-14T20:51:08.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="03fea1fb41f4074c7c2fce87ca5c8f36"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="pn.gif"
+   text-time="2000-02-10T21:01:38.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="e87ecd72630c1626afc21c828f66843c"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="75x245.gif"
+   text-time="2004-01-22T18:48:58.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="97351082e3b809724898aa9283f3e067"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ls.gif"
+   text-time="2000-02-10T21:01:14.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="45bc63f12820548edb7cf1419b07f79b"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="366"
+   name="dl_mac.gif"
+   text-time="2006-11-03T00:04:45.000000Z"
+   committed-date="2006-11-03T00:05:31.816413Z"
+   checksum="54eaf96c46927952173932b6f3ec07e1"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2006-11-02T23:46:47.000000Z"
+   revision="366"/>
+<entry
+   committed-rev="125"
+   name="tm.gif"
+   text-time="2000-02-10T21:01:52.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="e2512c030515c84b50ba072aff0944b8"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="aa.gif"
+   text-time="2000-02-10T21:00:18.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="abcb614a58aeef0001b6f281ba03b5d5"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="pr.gif"
+   text-time="2000-02-10T21:01:38.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="7c4fa1d34c1ac6dd38a600b513005f2d"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="154"
+   name="my-blogger.png"
+   text-time="2005-11-24T02:47:54.000000Z"
+   committed-date="2005-11-24T07:42:06.251602Z"
+   checksum="f3b355d0664219ac395b92c972720cf1"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ae.gif"
+   text-time="2000-02-10T21:00:18.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="9835402619caac822ce2b4862238d293"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="am.gif"
+   text-time="2000-02-10T21:00:20.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="3dba5b6e070b6aed9911d80c690d6993"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="yu-serbia.gif"
+   text-time="2002-03-29T23:02:08.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="2ad97e3993548b9a512eb711ac9b01ac"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="qa.gif"
+   text-time="2000-02-10T21:01:40.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="765470ace98609929582b9102f971387"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="148"
+   name="castpodder_button.png"
+   text-time="2005-11-24T02:39:17.000000Z"
+   committed-date="2005-11-24T02:40:35.793003Z"
+   checksum="ab3f6c3e37babc26aafe0a86fa80839f"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="au.gif"
+   text-time="2000-02-10T21:00:24.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="7cb571497012f3d294d704cce924ab43"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="et.gif"
+   text-time="2000-02-10T21:00:48.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="9a4417950c11a2460b02162fa18724ff"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="mn.gif"
+   text-time="2000-02-10T21:01:20.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="8bb6370b2b2b908a4fd30be395a7552c"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="is.gif"
+   text-time="2000-02-10T21:01:04.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="e631a04bccebf191fce43b35c1da9637"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="2"
+   name="logo_bittorrent.gif"
+   text-time="2005-10-20T07:28:08.000000Z"
+   committed-date="2005-10-20T07:46:35.904196Z"
+   checksum="fb78221c2cb93073112c2fdebd4e22f5"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="mr.gif"
+   text-time="2000-02-10T21:01:22.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="5e4c6d39c7e9a23d62ed44abcf34f356"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="mv.gif"
+   text-time="2000-02-10T21:01:24.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="136ed9096e032c20230a831b23ed6328"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="2"
+   name="2co_logo.png"
+   text-time="2005-10-20T07:28:08.000000Z"
+   committed-date="2005-10-20T07:46:35.904196Z"
+   checksum="30ee4b0b4aa80452cc44d0f66c42fbdb"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="bd.gif"
+   text-time="2000-02-10T21:00:26.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="b2f0a2fd4c1b7419079455490c85a4e3"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="125"
+   name="mz.gif"
+   text-time="2000-02-10T21:01:26.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="e49672ab6bb6f34c2af4d9c3bf2192a1"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="2"
+   name="somerights20.gif"
+   text-time="2005-10-20T07:28:08.000000Z"
+   committed-date="2005-10-20T07:46:35.904196Z"
+   checksum="3504bff199d2ac4555253382c05136ea"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:37.000000Z"/>
+<entry
+   committed-rev="154"
+   name="php-power-micro.gif"
+   text-time="2005-11-21T05:52:29.000000Z"
+   committed-date="2005-11-24T07:42:06.251602Z"
+   checksum="ebdec3a9d34a154d24bc8d54c7e30f55"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="2"
+   name="open-donate.png"
+   text-time="2005-10-20T07:28:08.000000Z"
+   committed-date="2005-10-20T07:46:35.904196Z"
+   checksum="0f76a72ea8dc8fc50f2ee26da62e49d4"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="bh.gif"
+   text-time="2000-02-10T21:00:28.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="0140500372c97e74ced76cb9bbc67bca"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="na.gif"
+   text-time="2000-02-10T21:01:28.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="5b51aa2cde33f648875d4b9e1a52457d"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="fk.gif"
+   text-time="2000-02-10T21:00:50.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="9df9289e4426f9cf470053b86d06df89"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ne.gif"
+   text-time="2000-02-10T21:01:28.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="dc7df8de1ebac92ed72d2dc866afe6ff"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="fo.gif"
+   text-time="2000-02-10T21:00:52.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="ae63dec12eb216c2e30e1ce1881bc6e9"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="bt.gif"
+   text-time="2000-02-10T21:00:32.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="1a7a597383fefbcf73661a2602daf783"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ni.gif"
+   text-time="2000-02-10T21:01:30.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="7b3e44bc7d2529c8bb89702e6b448535"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="vc.gif"
+   text-time="2000-02-10T21:02:00.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="3fb9bd65c00c1669d6c50cd9e352c3e7"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   name="bitrock-logo.png"
+   kind="file"
+   deleted="true"
+   revision="294"/>
+<entry
+   committed-rev="125"
+   name="vg.gif"
+   text-time="2000-02-10T21:02:00.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="a5c171b4bd83ca672c5ab884cc889dc5"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="nu.gif"
+   text-time="2000-02-10T21:01:32.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="9b1004bbb4dc5d9b1a225ee994970690"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="cc.gif"
+   text-time="2000-02-10T21:00:36.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="9f746c5771fcd10bef404c339488aa69"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="cg.gif"
+   text-time="2000-02-10T21:00:36.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="f8108f194fdb96fde4902b086a7534d1"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="SearchTran.gif"
+   text-time="2004-01-28T22:31:06.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="05e32f0525049cbe3a2ccef20249b9f4"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="2"
+   name="supported_cc.gif"
+   text-time="2005-10-20T07:28:08.000000Z"
+   committed-date="2005-10-20T07:46:35.904196Z"
+   checksum="33dc0373535207c1d553405dbd6ebfcc"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="zr.gif"
+   text-time="2000-02-10T21:02:06.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="6b903fca0bdc1e791ebc728d5d0fe71d"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ck.gif"
+   text-time="2000-02-10T21:00:38.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="8e735cfb1414b3f397829a62a1314b10"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ke.gif"
+   text-time="2000-02-10T21:01:06.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="a0b91fba3aee2841e13ec6e51ee859ad"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="co.gif"
+   text-time="2000-02-10T21:00:40.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="623b65170d401c63cf181d305f174e67"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ki.gif"
+   text-time="2000-02-10T21:01:08.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="375fdbe4c61d3eb3e8edd375787eb737"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="2"
+   name="cs-bk-234x16.gif"
+   text-time="2005-10-20T07:28:08.000000Z"
+   committed-date="2005-10-20T07:46:35.904196Z"
+   checksum="a6b6b07931272584d1e272ccd5989799"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="gn.gif"
+   text-time="2000-02-10T21:00:56.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="0095afdfb8124cb94b7f2067e6b8db6f"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="sc.gif"
+   text-time="2000-02-10T21:01:42.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="398c818f67d35ce2c3cd9813529c85ef"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="km.gif"
+   text-time="2000-02-10T21:01:08.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="94c2072fe3f0a56e77b677eff86b352f"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="gr.gif"
+   text-time="2000-02-10T21:00:56.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="dfc1b472b16f97755f09eb50f0ceabc5"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="sg.gif"
+   text-time="2000-02-10T21:01:44.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="6c94b0d46615fdfb8df583b425c806a5"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="wf.gif"
+   text-time="2000-02-10T21:02:04.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="ff10104353b43bf4201d19132943817f"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="335"
+   name="PodShow+.png"
+   text-time="2006-07-20T04:12:45.000000Z"
+   committed-date="2006-07-20T13:54:29.457381Z"
+   checksum="7847cbeb30ceb0487a20448652d5b1e4"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2006-07-20T13:54:14.000000Z"
+   revision="335"/>
+<entry
+   committed-rev="125"
+   name="sk.gif"
+   text-time="2000-02-10T21:01:46.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="bc5c1fb4fab2a51949590005ab46b212"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="294"
+   name="installer_with_bitrock.jpg"
+   text-time="2006-04-04T05:41:15.000000Z"
+   committed-date="2006-04-04T05:42:36.436864Z"
+   checksum="2450a798d39bacb948630898e2134efe"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2006-04-04T05:42:09.000000Z"
+   revision="294"/>
+<entry
+   committed-rev="125"
+   name="so.gif"
+   text-time="2000-02-10T21:01:48.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="60fa0dde47ded0b1f2195e43993f9a9b"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ky.gif"
+   text-time="2000-02-10T21:01:12.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="67492e900b553631fdce4bfb3f42d67a"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="dj.gif"
+   text-time="2000-02-10T21:00:44.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="865b6787957cadfdf57438befbd4d8d7"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="351"
+   name="python-powered.png"
+   text-time="2006-07-31T02:55:14.000000Z"
+   committed-date="2006-07-31T10:52:56.241458Z"
+   checksum="a1eb3d0d827dc3efcfed50ca025cc196"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2006-07-31T10:52:52.000000Z"
+   revision="351"/>
+<entry
+   committed-rev="125"
+   name="65x210.gif"
+   text-time="2004-01-22T18:45:36.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="e6f8994a79b5fb4f449fbd620ce40de8"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="pg.gif"
+   text-time="2000-02-10T21:01:34.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="2655b8a692f3b61deb82195b806f3954"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="pk.gif"
+   text-time="2000-02-10T21:01:36.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="dac90a4afdd02f5395b99e39113400c5"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="hu.gif"
+   text-time="2000-02-10T21:01:00.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="91609b979edb7cebdd2f9dcab6d7a4c0"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="tj.gif"
+   text-time="2000-02-10T21:01:52.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="16fcfc52abbce0211485213cc69f43bc"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="dz.gif"
+   text-time="2000-02-10T21:00:46.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="0c7ac8ee5fb5f7e1f74aab1d8ee9e966"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="lt.gif"
+   text-time="2000-02-10T21:01:16.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="64c4416637fe440ae04ee7dee4c3ff48"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="tn.gif"
+   text-time="2000-02-10T21:01:52.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="2c241235314817ef95de1c179885a6d6"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="tr.gif"
+   text-time="2000-02-10T21:01:54.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="abc924651caa7ad37379fea52870d169"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="pw.gif"
+   text-time="2000-02-10T21:01:38.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="315215d86261b8ae7c6d527f1afb118b"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="af.gif"
+   text-time="2000-02-10T21:00:20.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="7a00763fe9f353b4b5f9fd7cdf7eb0c6"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="2"
+   name="rss-releases.png"
+   text-time="2005-10-20T07:28:08.000000Z"
+   committed-date="2005-10-20T07:46:35.904196Z"
+   checksum="7f887a3905bb8d2753281421cd6a5ffd"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ee.gif"
+   text-time="2000-02-10T21:00:46.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="6387c01994ed67cb5a022bea4a261d60"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="tv.gif"
+   text-time="2000-02-10T21:01:56.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="58591edf91351c3439c944e91ed03429"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="id.gif"
+   text-time="2000-02-10T21:01:02.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="b1c0b862b2e47ad7a4fdfe2b60dc4e47"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="tz.gif"
+   text-time="2000-02-10T21:01:56.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="9efc7ddf937bd63b46d032fa1eb7434d"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="an.gif"
+   text-time="2000-02-10T21:00:22.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="966f3c36d545529dca948a0ed8e6a0af"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="mc.gif"
+   text-time="2000-02-10T21:01:18.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="bc248fea1741ea989c605f4abf8dfbeb"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="103"
+   name="logo_pcp.gif"
+   text-time="2005-11-19T23:39:00.000000Z"
+   committed-date="2005-11-19T23:52:43.362245Z"
+   checksum="cd0d3001ef45682ba61adda6261d6c31"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ar.gif"
+   text-time="2000-02-10T21:00:22.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="753ef00a51113094b3acdf52658f8cb5"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="mg.gif"
+   text-time="2000-02-10T21:01:18.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="ca0051eb7ea58f3c92b58592e0548f18"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="il.gif"
+   text-time="2000-02-10T21:01:02.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="4e32176aa3301d36f784f8be16da1701"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="ua.gif"
+   text-time="2000-02-10T21:01:56.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="5869bbe2337212ad76125241d10eb5a8"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="av.gif"
+   text-time="2000-02-10T21:00:24.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="ff5d20899726999144ae56d6b005ac1e"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="mk.gif"
+   text-time="2000-02-10T21:01:20.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="b966ca263c2a328bb09af7384f6c93a7"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+<entry
+   committed-rev="125"
+   name="az.gif"
+   text-time="2000-02-10T21:00:26.000000Z"
+   committed-date="2005-11-20T02:43:18.086222Z"
+   checksum="8dc89f104da85ede85c4d48a31cc9b0f"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2005-11-24T08:21:38.000000Z"/>
+</wc-entries>

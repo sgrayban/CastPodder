@@ -1,0 +1,3 @@
+<!-- $Id$ -->
+<br /><br />
+<?php require("includes/paypal.php"); ?>
