@@ -1,0 +1,203 @@
+# $Id: ChangeLog 164 2006-11-08 04:39:15Z sgrayban $
+
+ * Precompiled program using a python compiler for all future release
+	Sources will no longer be released this point on.
+	You can thank the actions of Mandriva for this coupled with the stunt PodNova did.
+ * CastPodder goes to Commercial License
+ * Added new French translation from Olivier Anh <twenster@gmail.com>
+
+5.3 Release
+ * Removed some old code that was preventing adding feeds.
+
+Monday Oct 30 2006 -  - Scott Grayban <sgrayban@castpodder.net> <5.2>
+ * Released 5.2
+ * New switch for the advance tab for the command line.
+	%t will allow to use a script to rename the downloaded file
+	EG; to replace the MP3 filename with the podcast item title
+ * New feed manager
+ * Started using config file version to keep track of changes and better updating/upgrading checking
+ * Users can change the programs used to open certain downloads in ipodder/configuration.py
+	Look for "## Multimedia player parameters - Edit me!"
+ * SSL is now supported in urls. EG; https:
+ * Hook added to double check auth
+ * Protected feeds can now be entered in the form...
+	http://username:password@podcast-feed-domain.com
+   ** No need for the username/password to be entered in the auth tab anymore. **
+
+Monday 24 July 2006 - Scott Grayban <sgrayban@borgnet.us> <5.1>
+ * Release 5.1 - Not much for a release.
+ * The biggest change is the addition of password protected feeds
+   where you can enter a username/password for selected feeds.
+ * Changed url's in the menu's for new web locations.
+
+Saturday 29 April 2006 - Scott Grayban <sgrayban@borgnet.us> <5.0>
+
+ *Released 5.0 
+ * Lots of neat things everyone and MAJOR feedburner fixes.
+	1) Can delete all downloads in one click. Look in Menu -> file
+	2) FB feeds are now bypassed using the original feed url (NO MORE STATS FOR FB!!)
+	3) Don't forget the new ID3 tool tag listed below !!!!
+
+ * 3 new people on board to help code. Stuart, Udo & Hans
+ * Added patch from Stu that fixes FB for now.
+	See ticket:10 or http://dev-1.borgforge.net/trac/castpodder/changeset/76
+ * Removed hansjj patch because this now interferes with my status code I use now
+ * Added the 302 and status codes back into grabbers.py which gets the correct filenames
+	now and renames them after download is down.
+ * r61 went back to Stu's patch for feedburner problems.
+	See ticket:5 or http://dev-1.borgforge.net/trac/castpodder/changeset/61
+ * Updated feedparser.py to newest version 4.1
+ * All new variables from motto patches that can be edited by the user are now located in
+	ipodder/configuration.py to manage better.
+ * Applied patches from motto. See http://dev-1.borgforge.net/trac/castpodder/changeset/48
+	and http://dev-1.borgforge.net/trac/castpodder/ticket/7 for all the details
+ * Applied patch from motto that uses variables in his code addidtions.
+	See http://dev-1.borgforge.net/trac/castpodder/changeset/47
+ * Applied patch that fixes FB's crappy redirection. See http://dev-1.borgforge.net/trac/castpodder/changeset/46
+ * Applied patch that extends the escape of all special characters.
+	See http://dev-1.borgforge.net/trac/castpodder/changeset/45
+ * Applied patch when "path" to file contains spaces. See http://dev-1.borgforge.net/trac/castpodder/changeset/42
+ * Applied patch from NoUse to support https. See http://dev-1.borgforge.net/trac/castpodder/changeset/41 
+ * Appiled patch from motto -- See http://dev-1.borgforge.net/trac/castpodder/changeset/40
+ * **REMOVED** Applied patch from hansjj to remove the extra characters after the mp3 filename
+   See: http://forum.castpodder.net/viewtopic.php?p=365#365 for post
+
+ * Added id3-0.77.tar.gz in the tools/ directory.
+	Homepage: http://home.wanadoo.nl/squell/id3.html
+	This program is much easier to use then the mp3tag program.
+
+Saturday 10 December 2005 - Scott Grayban <sgrayban@borgnet.us> <4.0>
+ * Added an example how to use the Advance preferences
+	Example: mp3tag -g podcast %f\nThis would tag the file as a "podcast" for the Genre.
+ * Fixed fg/bg colours so that other GTK themes dont interfer with reading the windows
+ * Fixed iPodder.CRITICAL_MINSPACE_EXCEEDED because of a typo the disk space
+	wasn't being reported. Should have been core.CRITICAL_MINSPACE_EXCEEDED
+	Pointed out by netpro2k on the forum.
+ * Disabled Player cleanup option in Cleanup tab
+	Only used for iTunes and M$ media player
+ * Added patch for multicast wxPython
+	http://bugs.gentoo.org/show_bug.cgi?id=109116
+ * Added unicode checking and if a character isn't detected
+	correctly it displays a error box with encoding choices
+ * Beep-Media-Player is now supported
+	You can install the python module needed at:
+	http://borgforge.net/projects/pybmp/
+ * You can now edit the preferences from the systray icon
+ * updated .cvsignore files to exclude .pyo files
+
+Saturday November 19 2005 - Scott Grayban <sgrayban@borgnet.us> <3.2>
+ * Updated donation url - was still pointed to the old site.
+ * Edited docs to reflect new name and url's
+ * Changed donation notify limit from 30 to 7
+ * Edited url's that still pointed to SF in code
+ * Started code for a command line player
+
+Saturday November 12 2005  - Scott Grayban <sgrayban@borgnet.us> <3.1> 
+ * Released CastPodder 3.1
+ * Moved the source code to borgforge.net
+ * Changed the bottom colour of the splashscreen bitmap
+ * Added GigaDial link in the Feed preference tab
+ * Added check for update option in preferences
+ * Moved the xml version check to castpodder.net
+ * Forked the linux version into CastPodder because of Apples claim against us.
+ * Added copy to clipboard feature in feeds tab
+
+Wednesday September 14 2005 - Scott Grayban <sgrayban@borgnet.us> <2.1.9>
+ * Released iPodder 2.1.9
+ * Updated add_to_gigadial.py - also fixed the permissions for it
+ * Right click in downloads tab now works
+ * Changed the user agent in grabbers.py to iPodder-linux for stats counting.
+ * Added auto cleanup for podcasts
+ * OPML sync management now works
+ * Added webbrowser.py to the contrib directory because of a browser bug in the
+   current python module which includes my fixes.
+   Used a if statement to determine if the file is to be used or not.
+ * Moved iPodder.py to ipooder/core.py
+ * Moved iPodderWindows.py to gui/iPodderWindows.py
+ * Plugin support added
+ * Linux version now supports branding(skinning)
+ * Fixed typo in README file
+ * Moved scheduler.py to gui/ directory
+ * Had to import our own webbrowser.py since it doesn't allow forking correctly
+   for generic browsers and causing iPodder to hang until you close the browser
+    *** NOTE *** Browser only seemed to hang if it had to start a new one
+                 Didn't happen if the browser was already running
+                 but this really fixed it.
+ * Scheduler actually works now for linux users
+ * Fixed Scheduler radio buttons so they work right(removed the grouping)
+ * Fixed prefences tab for OPML/Feedmanager
+ * Scheduler config is now placed in ipodder.cfg
+ * Fixed player preference when it would always default to No Player
+ * wxpython 2.6 errors have all been fixed
+ * Updated Podcast directory
+ * Cleanup checking is fixed so that Player Library is NOT checked by default
+   Done because XMMS does not really need this nor do most users care.
+ * W00T !! Hiding the tray icon now works :)
+   All you non-KDE/Gnome users will like this one !
+ * PodNova support added
+ * New localization merged in from the main HEAD for lanuages
+ * Merged in code for "Open in browser" menu choice for feed folders.
+
+Monday July 25 2005 - Scott Grayban <sgrayban@borgnet.us> <2.1.1>
+ * 302 and 404 download errors are fixed now
+   This should also fix the 0 byte and corrupt downloads
+ * Version check now works..... Now have to remember to update the xml file :)
+
+Wednesday July 20 2005 - Scott Grayban <sgrayban@borgnet.us> <2.1>
+ * UGGGGGG I forgot to up the version stuff ...... stupid me
+ * Fixed the install script.
+
+Monday July 18 2005 - Scott Grayban <sgrayban@borgnet.us> <2.0>
+ * Released iPodder 2.0 full release ---- finally :)
+ * Created a script that will delete all the *.pyc files and create
+   the distribution tarball.
+ * Added mandriva spec file for use
+ * Fixed wrong script encoding
+ * grabbers.py fixed - zlib compression errrors prevented some feeds from working
+   which where caused from the webservers and not iPodder.
+ * Fixed bad interpreter for iPodderStringsJapanese.py
+ * Changed url for reporting bugs to use the forum instead of SF since its
+   easier for me to maintain. :)
+ * (TODO-not finished) Added tray detection to either use the tray or not for GUI's like wm
+   that can't use the tray icon
+ * All the text files *.linux are renamed to exclude the .linux extension
+   since we now have our own linux tag branch in cvs
+ * Updated xrc files to be current with main branch
+ * (TODO-not finished) Check for updates for linux versions added
+   Added since the main branch will usually be different then linux
+ * GUI layout cleanup
+ * Removed code for players that was for windows and mac.
+ * Major code cleanup removing windows/mac code
+ * Applied patch to fix the 302 redirect issue from Mike
+
+Thursday June 23 2005 - Scott Grayban <sgrayban@borgnet.us> <RC4>
+ * Applied patch from manny15 to fix the unicode issues.
+         See: http://bugs.gentoo.org/attachment.cgi?id=59992&action=view
+ * Applied patch from kwa to fix a xmms import error
+ * Minor code fixes
+
+Saturday April 16 2005 - Scott Grayban <sgrayban@borgnet.us> <RC3>
+ * Applied patch from kwa to fix:
+   Disk Space issue
+   PriorityQueue compatible with Python versions >= 2.4
+ * Applied XMMS player patch from Kevin
+ * Tray icon now works with double clicks to hide/unhide the window.
+ * Tray right click menu now shows "Hide iPodder"
+
+Monday April 11 2005 - Scott Grayban <sgrayban@borgnet.us> <RC2>
+ * re-coded the install script so that it detects if they are root
+ * check to determin if the old historic name is still there
+ * used a symbolic link instead of cp the binary ipodder
+ * text to tell the user they need to read README.linux
+ * added ipodder.png for a desktop icon
+ * Created LICENSE file
+ * Created README.linux
+ * Detailed TODO.linux for Garth to help
+
+Sunday April 10 2005 - Scott Grayban <sgrayban@borgnet.us> <RC1>
+ * Added install script
+ * Created Changelog.linux
+ * Created TODO.linux
+ * Created INSTALL.linux
+ * Added systray support.
+ * Added Hide window support.

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<resource>
+  <object class="wxDialog" name="DIALOG1">
+    <title></title>
+    <object class="wxBoxSizer">
+      <orient>wxVERTICAL</orient>
+      <object class="spacer">
+        <size>0,20</size>
+        <flag></flag>
+      </object>
+      <object class="sizeritem">
+        <object class="wxStaticBitmap">
+          <bitmap>..\images\newlogo_ipodder_animated.gif</bitmap>
+        </object>
+        <flag>wxALIGN_CENTRE</flag>
+      </object>
+      <object class="spacer">
+        <size>0,5</size>
+        <flag></flag>
+      </object>
+      <object class="sizeritem">
+        <object class="wxBoxSizer">
+          <orient>wxHORIZONTAL</orient>
+          <object class="spacer">
+            <size>10,0</size>
+          </object>
+          <object class="sizeritem">
+            <object class="wxStaticText">
+              <label>(C) 2004,2005. CastPodder is Free Software and\nlicensed under the GPL.</label>
+              <style>wxALIGN_CENTRE</style>
+            </object>
+            <flag>wxALIGN_CENTRE</flag>
+          </object>
+        </object>
+        <flag>wxALIGN_CENTRE</flag>
+      </object>
+    </object>
+    <centered>1</centered>
+    <style>wxSYSTEM_MENU|wxSIMPLE_BORDER</style>
+    <bg>#FFFFFF</bg>
+  </object>
+</resource>

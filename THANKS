@@ -1,0 +1,6 @@
+$Id: THANKS 68 2006-04-26 20:14:35Z sgrayban $
+
+ * Drew Sturgiss <adross@castpodder.net> - debian packager and PR person
+ * Previous iPodder coders and contributors
+ * hansjj <hansjj@hansjj.com> provided patch to remove those pesky extra characters at the end of mp3 filenames
+ * motto <ub13@gmx.de> provied patches to support other formats in feeds

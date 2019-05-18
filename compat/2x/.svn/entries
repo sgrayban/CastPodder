@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="96"
+   name=""
+   committed-date="2006-07-10T19:50:46.873195Z"
+   url="svn://svn.borgnet.us:81/castpodder/trunk/compat/2x"
+   last-author="sgrayban"
+   kind="dir"
+   uuid="6dfdeac2-0c10-0410-817e-aaecfd91d1f6"
+   repos="svn://svn.borgnet.us:81/castpodder"
+   prop-time="2006-04-26T20:12:08.000000Z"
+   revision="134"/>
+<entry
+   committed-rev="149"
+   name="__init__.py"
+   text-time="2006-11-07T08:37:35.000000Z"
+   committed-date="2006-11-07T08:37:34.878846Z"
+   checksum="6ddb06ff767d919e58612708349bcd9b"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2006-04-26T20:12:08.000000Z"
+   revision="149"/>
+<entry
+   committed-rev="149"
+   name="iPodder.py"
+   text-time="2006-11-07T08:37:35.000000Z"
+   committed-date="2006-11-07T08:37:34.878846Z"
+   checksum="bf93f3a4e7e14a5d9cd4ea94819ccc64"
+   last-author="sgrayban"
+   kind="file"
+   prop-time="2006-04-26T20:12:08.000000Z"
+   revision="149"/>
+</wc-entries>

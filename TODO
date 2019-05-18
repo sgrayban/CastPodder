@@ -1,0 +1,47 @@
+# $Id: TODO 145 2006-11-07 07:15:40Z sgrayban $
+
+TODO - Scott Grayban <sgrayban@castpodder.net>
+
+ * (FIXED)Figure out why CastPodder throws the error:
+   "Another copy of iPodder is running. Please raise it, wait for it to complete, or kill it."
+   When iPodder isn't even running.
+       !!!NOTE!!! This happens if the user runs it as root or it crashes.
+                  Delete the lockfile in the ~/iPodderData directory.
+
+ * (FIXED)Still need to write in a command line function so that users can use any
+   player they wish and remove the built-in player functions.
+
+ * (FIXED)Need to fix the tray icon to detect desktop gui's that don't support it.
+   either by allowing the user to hide it or disable it.
+
+-----
+We added XMMS support but my goal is to make a preference setting
+ that will let the linux user choose any player they want and let iPodder
+ output the path to where the file is.
+-----
+
+ * (FIXED)Need to add mplayer(maybe???) to the list of players for the linux platform.
+   - gmplayer /path/to/podcast-file
+   - gmplayer -playlist /path/to/podcast-playlist
+
+ * (FIXED)Need to add "Hide window" in the tray icon menu
+
+ * (FIXED)Need to allow double click on tray icon to also hide window
+   - right now it only opens the hidden window
+
+ * (FIXED)Need to fix the error "Can't determine free disk space."
+   - disk space can be determined by quota, du and/or df.
+
+   Example of df output:
+   # df `pwd`
+   Filesystem            Size  Used Avail Use% Mounted on
+   /dev/ide/host0/bus0/target0/lun0/part7
+                          14G   13G  1.4G  91% /home
+
+   Example of quota output:
+   Disk quotas for user sgrayban (uid 501): none
+   
+   Example of du output:
+   # du -shc ~/iPodderData/
+   144K    /home/sgrayban/iPodderData/
+   144K    total

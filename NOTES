@@ -1,0 +1,5 @@
+# $Id: NOTES 68 2006-04-26 20:14:35Z sgrayban $
+
+Feedburner is still a issue for some feeds. Seems they always break there XML feeds.
+
+Do not use coralize if at all possible. Its very broke and the DNS for nyud.edu has been causing trouble.

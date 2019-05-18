@@ -1,0 +1,2 @@
+#default favorites.txt file
+http://www.gigadial.net/public/opml/dial25.opml

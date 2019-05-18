@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=AudioVideo;Audio
+Comment=Media Agregator
+Comment[en_US]=Media Agregator
+Exec=CastPodder
+GenericName=Media Agregator
+GenericName[en_US]=Media Agregator
+Icon=CastPodder.png
+MimeType=
+Miniicon=/opt/CastPodder/icons_status/application.ico
+Name=CastPodder
+Name[en_US]=CastPodder
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

@@ -1,0 +1,40 @@
+# $Id: README 161 2006-11-08 04:21:02Z sgrayban $
+
+CastPodder -- A linux Podcast receiver
+----------------------------------------------
+CastPodder comes with ABSOLUTELY NO WARRANTY.
+See Software_License_Agreement.txt for details.
+----------------------------------------------
+
+Website: http://www.castpodder.net
+Support: http://forum.castpodder.net/index.php?c=2
+
+Linux Version 3.2 -- NOV 20, 2005.
+
+Important files:
+-----------------
+Changelog
+INSTALL
+TODO
+LICENSE
+README
+
+Prerequisites:
+-----------------
+Python 2.4 > 
+libpython 2.4 > 
+libwxPythonGTK 2.6 > 
+wxPythonGTK (wxPython on some distro's) 2.6 > 
+libxml2-python 2.6 > 
+python-gtk 
+xmms-python(pyxmms) - Python interface to XMMS 
+PyBMP (for beep-media-player) can be found at http://dev-1.borgforge.net/trac/pyBMP
+
+**** Please note that python 2.5 isn't out on all
+**** distro's yet and wont be supported just yet.
+
+To install read the INSTALL file
+For changes read the Changelog file
+
+**** This file may not always be current.
+**** Check the forum first before making a bug report.

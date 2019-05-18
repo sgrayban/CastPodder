@@ -1,0 +1,19 @@
+# $Id: KNOWN-ISSUES 145 2006-11-07 07:15:40Z sgrayban $
+
+KNOWN ISSUES
+
+Some of the systray menus dont work yet. Still sorting them out.
+
+The CleanUp tab list box background colour is hardly if at all readable if
+   certain GTK dark themes are used. Currently no fix for this.
+
+Resumes & Bittorrent feeds sometimes don't work
+ - Python 2.4 is the cause of this issue.
+
+CastPodder throws the error:
+   "Another copy of CastPodder is running. Please raise it, wait for it to complete, or kill it."
+   When CastPodder isn't even running.
+       !!!NOTE!!! This happens if the user runs it as root or it crashes.
+                  Delete the lockfile (ipodder.cfg.lock) in the ~/iPodderData directory.
+
+Coralize does not always work. Please don't use it if you are having problems getting downloads with it.

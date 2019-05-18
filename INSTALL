@@ -1,0 +1,20 @@
+# $Id: INSTALL 68 2006-04-26 20:14:35Z sgrayban $
+
+Saturday April 16 2005 - Scott Grayban <sgrayban@castpodder.net>
+---------------------------
+Linux Install:
+read the README first !!
+
+1) su(do) to root
+2) run ./install.sh
+3) Place a shortcut on your desktop with /usr/bin/CastPodder as the binary executable.
+4) For a desktop icon use the CastPodder.png in /opt/CastPodder
+
+*** NOTE ***
+This version supports XMMS for the player.
+You _must_ have the xmms python libraries installed for this to work.
+
+
+Enjoy !
+
+Scott

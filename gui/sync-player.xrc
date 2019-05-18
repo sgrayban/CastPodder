@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource version="2.4.0">
+  <object class="wxFrame" name="MainFrame">
+    <title>Sync Playlist</title>
+    <object class="wxPanel" name="MainPanel">
+      <object class="wxBoxSizer">
+        <orient>wxVERTICAL</orient>
+        <object class="spacer">
+          <size>0,5</size>
+          <border>7</border>
+        </object>
+        <object class="sizeritem">
+          <object class="wxStaticText" name="MainText-2">
+            <label>List of downloaded files\nSelect files to sync</label>
+            <size>500,30</size>
+            <style>wxALIGN_CENTRE</style>
+          </object>
+          <flag>wxEXPAND|wxGROW</flag>
+        </object>
+        <object class="spacer">
+          <size>0,5</size>
+        </object>
+        <object class="sizeritem">
+          <object class="wxBoxSizer">
+            <orient>wxHORIZONTAL</orient>
+            <object class="spacer">
+              <size>0,5</size>
+            </object>
+            <object class="sizeritem">
+              <object class="wxCheckListBox" name="MainCheckListBox">
+                <content/>
+                <size>300,300</size>
+                <style>wxSUNKEN_BORDER</style>
+              </object>
+              <option>1</option>
+              <flag>wxEXPAND</flag>
+            </object>
+            <object class="spacer">
+              <size>0,5</size>
+            </object>
+          </object>
+          <option>1</option>
+          <flag>wxEXPAND</flag>
+        </object>
+        <object class="spacer">
+          <size>0,5</size>
+          <border>7</border>
+        </object>
+        <object class="sizeritem">
+          <object class="wxStaticText" name="MainText">
+            <label>Path to MP3 Player (should be plugged in)\ne.g: /mnt/sda1/PATH</label>
+            <style>wxALIGN_CENTRE|wxSUNKEN_BORDER</style>
+          </object>
+          <flag>wxGROW</flag>
+        </object>
+        <object class="spacer">
+          <size>0,5</size>
+        </object>
+        <object class="sizeritem">
+          <object class="wxBoxSizer">
+            <orient>wxHORIZONTAL</orient>
+            <object class="spacer">
+              <size>0,5</size>
+            </object>
+            <object class="sizeritem">
+              <object class="wxTextCtrl" name="MainTextCtrl">
+                <size>360,25</size>
+                <style></style>
+              </object>
+              <flag>wxALIGN_CENTRE</flag>
+            </object>
+            <object class="spacer">
+              <size>15</size>
+            </object>
+            <object class="sizeritem">
+              <object class="wxButton" name="MainBrowseButton">
+                <label>Browse</label>
+                <size>60,25</size>
+                <fg>#FFFFFF</fg>
+                <bg>#159F15</bg>
+                <tooltip>Browse to where your MP3 Player is mounted</tooltip>
+              </object>
+              <flag>wxALIGN_CENTRE</flag>
+            </object>
+            <object class="spacer">
+              <size>20,0</size>
+            </object>
+          </object>
+          <flag>wxALIGN_CENTRE</flag>
+        </object>
+        <object class="spacer">
+          <size>0,20</size>
+        </object>
+        <object class="sizeritem">
+          <object class="wxBoxSizer">
+            <orient>wxHORIZONTAL</orient>
+            <object class="spacer">
+              <size>10,0</size>
+            </object>
+            <object class="sizeritem">
+              <object class="wxCheckBox" name="MainCheckBox">
+                <label>Delete all the current files in your MP3 Player directory?</label>
+                <tooltip>Delete all the current files in your MP3 Player directory?</tooltip>
+              </object>
+            </object>
+          </object>
+        </object>
+        <object class="spacer">
+          <size>0,5</size>
+        </object>
+        <object class="sizeritem">
+          <object class="wxStaticLine" name="MainLine">
+            <style>wxRAISED_BORDER</style>
+          </object>
+          <flag>wxEXPAND</flag>
+        </object>
+        <object class="spacer">
+          <size>0,5</size>
+        </object>
+        <object class="sizeritem">
+          <object class="wxBoxSizer">
+            <orient>wxHORIZONTAL</orient>
+            <object class="sizeritem">
+              <object class="wxButton" name="MainSyncButton">
+                <label>Sync</label>
+                <size>60,25</size>
+                <fg>#FFFFFF</fg>
+                <bg>#159F15</bg>
+                <tooltip>Click to sync playlist</tooltip>
+              </object>
+              <flag>wxALIGN_CENTRE|wxALIGN_CENTRE_HORIZONTAL</flag>
+            </object>
+            <object class="spacer">
+              <size>20,0</size>
+            </object>
+            <object class="sizeritem">
+              <object class="wxButton" name="MainCancelButton">
+                <label>Cancel</label>
+                <size>60,25</size>
+                <fg>#FFFFFF</fg>
+                <bg>#159F15</bg>
+                <tooltip>Cancel</tooltip>
+              </object>
+              <flag>wxALIGN_CENTRE</flag>
+            </object>
+          </object>
+          <flag>wxALIGN_CENTRE_HORIZONTAL</flag>
+        </object>
+        <object class="spacer">
+          <size>5,5</size>
+        </object>
+      </object>
+      <size>1000,1000</size>
+      <style>wxFULL_REPAINT_ON_RESIZE</style>
+    </object>
+    <centered>1</centered>
+    <size>450,500</size>
+    <style>wxCAPTION|wxCLOSE_BOX|wxRESIZE_BORDER|wxFULL_REPAINT_ON_RESIZE</style>
+  </object>
+</resource>
